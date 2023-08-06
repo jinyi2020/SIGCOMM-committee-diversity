@@ -74,7 +74,7 @@
 72,Organizing,Andrea Passarella,2012,"CNR IIT, Italy",Europe,Male,2005,Italy
 73,Organizing,Ryuji Wakikawa,2012,"Toyota ITC, USA/Japan",Asia,Male,2003,United States
 74,Organizing,Marcelo Bagnulo,2012,"Universidad Carlos III de Madrid, Spain",Europe,Male,2005,Spain
-75,Organizing,Polly Huang,2012,"National Taiwan University, Taiwan",Asia,Female,1999,China
+75,Organizing,Polly Huang,2012,"National Taiwan University, Taiwan",Asia,Female,1999,"Taiwan, Province of China"
 76,Organizing,Sharon Goldberg,2012,"Boston University, USA",North America,Female,2009,United States
 77,Organizing,Liang Wang,2012,"University of Helsinki, Finland",Europe,Male,2014,Finland
 78,Organizing,Jaudelice de Oliveira,2012,"Drexel University, USA",North America,Female,2003,United States
@@ -97,7 +97,7 @@
 95,Organizing,Krishna Gummadi,2013,"MPI-SWS, Germany",Europe,Male,2005,Germany
 96,Organizing,Y. Charlie Hu,2013,"Purdue University, USA",North America,Male,1997,United States
 97,Organizing,Augustin Chaintreau,2013,"Columbia University, USA",North America,Male,2006,United States
-98,Organizing,Polly Huang,2013,"National Taiwan University, R.O.China",Asia,Female,1999,China
+98,Organizing,Polly Huang,2013,"National Taiwan University, R.O.China",Asia,Female,1999,"Taiwan, Province of China"
 99,Organizing,Carmen Guerrero,2013,University Carlos III Madrid,Europe,Female,1998,Spain
 100,Organizing,Kwok Wai Cheung,2013,"The Chinese University of Hong Kong, China",Asia,Male,1987,China
 101,Organizing,Bruce Maggs,2013,"Duke University, USA",North America,Male,1989,United States
@@ -688,7 +688,7 @@
 686,Program,Saikat Guha,2014,"Microsoft Research, India",Asia,Male,2009,India
 687,Program,Krishna Gummadi,2014,"Max Planck Institute, Germany",Europe,Male,2005,Germany
 688,Program,Chuanxiong Guo,2014,"Microsoft Research, Asia",Asia,Male,Phd,China
-689,Program,Polly Huang,2014,"National Taiwan University, Taiwan",Asia,Female,1999,China
+689,Program,Polly Huang,2014,"National Taiwan University, Taiwan",Asia,Female,1999,"Taiwan, Province of China"
 690,Program,Kyle Jamieson,2014,"University College London, UK",Europe,Male,2008,United Kingdom
 691,Program,Brad Karp,2014,"University College London, UK",Europe,Male,2000,United Kingdom
 692,Program,Ethan Katz-Bassett,2014,"University of Southern California, USA",North America,Male,2012,United States
@@ -906,7 +906,7 @@
 904,Program,Changhoon Kim,2018,"Barefoot, USA",North America,Male,2009,United States
 905,Program,Eddie Kohler,2018,"Harvard, USA",North America,Male,2001,United States
 906,Program,Arvind Krishnamurthy,2018,"UW, USA",North America,Male,1998,United States
-907,Program,Kate Lin,2018,"NCTU, Taiwan",Asia,Female,2009,China
+907,Program,Kate Lin,2018,"NCTU, Taiwan",Asia,Female,2009,"Taiwan, Province of China"
 908,Program,Ratul Mahajan,2018,"Intentionet, USA",North America,Male,2005,United States
 909,Program,James Mickens,2018,"Harvard, USA",North America,Male,2008,United States
 910,Program,Dave Oran,2018,"Cisco, USA",North America,Male,1993,United States
