@@ -1,0 +1,1241 @@
+,committee,cleanedName,year,cleanedRegion,Continent,Gender,ApproximateDoctoralGradYear,country
+0,Organizing,Pablo Rodriguez,2009,"Telefonica Research, Spain",Europe,Male,2000,Spain
+1,Organizing,Ernst Biersack,2009,"Eurecom, France",Europe,Male,1988,France
+2,Organizing,Konstantina  Papagiannaki,2009,"Intel Labs Pittsburgh, USA",North America,Female,2003,United States
+3,Organizing,Luigi Rizzo,2009,"Universit di Pisa, Italy",Europe,Male,1998,Italy
+4,Organizing,Christophe Diot,2009,"Thomson, France",Europe,Male,1991,France
+5,Organizing,Dolors Sala,2009,"Universitat Pompeu Fabra, Spain",Europe,Female,1998,Spain
+6,Organizing,Jaudelice de Oliveira,2009,"Drexel University, USA",North America,Female,2003,United States
+7,Organizing,Balachander Krishnamurthy,2009,AT&T Labs,North America,Male,None,United States
+8,Organizing,Antony Rowstron,2009,"Microsoft Research, UK",Europe,Male,1996,United Kingdom
+9,Organizing,Laurent Mathy,2009,"Lancaster University, UK",Europe,Male,2000,United Kingdom
+10,Organizing,Joel Sommers,2009,"Colgate University, USA",North America,Male,2007,United States
+11,Organizing,Nick Feamster,2009,"Georgia Tech, USA",North America,Male,2005,United States
+12,Organizing,Renata Teixeira,2009,"CNRS and UPMC, France",Europe,Female,2005,France
+13,Organizing,Jordi Domingo,2009,"Universitat Politcnica de Catalunya, Spain",Europe,Male,1987,Spain
+14,Organizing,Athina Markopoulou,2009,"UC Irvine, USA",North America,Female,2003,United States
+15,Organizing,Dejan Kostic,2009,"EPFL, Switzerland",Europe,Male,2005,Switzerland
+16,Organizing,Serge Fdida,2009,"Lip6, France",Europe,Male,1984,France
+17,Organizing,Susanna Avessta,2009,"DIMES Association, Finland",Europe,Female,?,Finland
+18,Organizing,Javier Aracil,2009,"Universidad Autnoma de Madrid, Spain",Europe,Male,1995,Spain
+19,Organizing,Sue Moon,2009,"KAIST, Korea",Asia,Female,2000,"Korea, Republic of"
+20,Organizing,Moritz Steiner,2009,"Bell-Labs / Alcatel-Lucent, USA",North America,Male,2008,United States
+21,Organizing,Shivkumar Kalyanaraman,2010,"IBM Research, India",Asia,Male,1997,India
+22,Organizing,Venkat Padmanabhan,2010,"Microsoft Research, India",Asia,Male,1998,India
+23,Organizing,K.K. Ramakrishnan,2010,"AT&T Labs Research, USA",North America,Male,1983,United States
+24,Organizing,Rajeev Shorey,2010,"NIIT University, India",Asia,Male,1995,India
+25,Organizing,Geoff Voelker,2010,"University of California, San Diego, USA",North America,Male,2000,United States
+26,Organizing,Vinay Ribeiro,2010,"IIT Delhi, India",Asia,Male,2005,India
+27,Organizing,Sudipta Maitra,2010,"IBM Daksh, India",Asia,Male,?,India
+28,Organizing,Christophe Diot,2010,"Technicolor, France",Europe,Male,1991,France
+29,Organizing,Jim Kurose,2010,"University of Massachusetts, Amherst, USA",North America,Male,1984,United States
+30,Organizing,Ranjita Bhagwan,2010,"Microsoft Research, India",Asia,Female,2004,India
+31,Organizing,Sue Moon,2010,"KAIST, South Korea",Asia,Female,2000,"Korea, Republic of"
+32,Organizing,Bhaskaran Raman,2010,"IIT Bombay, India",Asia,Male,2002,India
+33,Organizing,Neil Spring,2010,"University of Maryland, College Park, USA",North America,Male,2004,United States
+34,Organizing,Kevin Almeroth,2010,"University of California, Santa Barbara, USA",North America,Male,1997,United States
+35,Organizing,Huzur Saran,2010,"IIT Delhi, India",Asia,Male,1989,India
+36,Organizing,Aaditeshwar Seth,2010,"IIT Delhi, India",Asia,Male,2008,India
+37,Organizing,Sergey Gorinsky,2010,"Madrid Institute for Advanced Studies in Networks (IMDEA Networks), Spain",Europe,Male,2003,Spain
+38,Organizing,Carla-Fabiana Chiasserini,2010,"Politecnico di Torino, Italy",Europe,Female,2000,Italy
+39,Organizing,Krishna Sivalingam,2010,"IIT Madras, India",Asia,Male,1994,India
+40,Organizing,Partha Dutta,2010,"IBM Research, India",Asia,Male,2005,India
+41,Organizing,B.N. Jain,2010,"IIT Delhi, India",Asia,Male,1975,India
+42,Organizing,Anurag Kumar,2010,"IISc, Bangalore, India",Asia,Male,1981,India
+43,Organizing,Jaudelice de Oliveira,2010,"Drexel University, USA",North America,Female,2003,United States
+44,Organizing,Srinivasan Keshav,2011,"University of Waterloo, Canada",North America,Male,1991,Canada
+45,Organizing,Jörg Liebeherr,2011,"University of Toronto, Canada",North America,Male,1991,Canada
+46,Organizing,John Byers,2011,"Boston University, USA",North America,Male,1997,United States
+47,Organizing,Jeff Mogul,2011,"HP Labs, USA",North America,Male,1986,United States
+48,Organizing,Yashar Ganjali,2011,"University of Toronto, Canada",North America,Male,2006,Canada
+49,Organizing,Martin Karsten,2011,"University of Waterloo, Canada",North America,Male,2000,Canada
+50,Organizing,Kenneth L. Calvert,2011,"University of Kentucky, USA",North America,Male,1991,United States
+51,Organizing,Aditya Akella,2011,"University of Wisconsin-Madison, USA",North America,Male,2005,United States
+52,Organizing,Lili Qiu,2011,"University of Texas at Austin, USA",North America,Female,2001,United States
+53,Organizing,Stratis Ioannidis,2011,"Technicolor, France",Europe,Male,2009,France
+54,Organizing,Nicolas Christin,2011,"Carnegie Mellon University, USA",North America,Male,2003,United States
+55,Organizing,Kenjiro Cho,2011,"IIJ Research Laboratory, Japan",Asia,Male,2001,Japan
+56,Organizing,Arun Venkataramani,2011,"University of Massachusetts, USA",North America,Male,2004,United States
+57,Organizing,Giorgio Ventre,2011,"University of Napoli, Italy",Europe,Male,1989,Italy
+58,Organizing,Georgios Smaragdakis,2011,"Deutsche Telekom Labs & TU Berlin, Germany",Europe,Male,2009,Germany
+59,Organizing,Stefan Saroiu,2011,Microsoft Research,North America,Male,2004,United States
+60,Organizing,Jaudelice de Oliveira,2011,"Drexel University, USA",North America,Female,2003,United States
+61,Organizing,Lars Eggert,2012,"NetApp, Germany",Europe,Male,2003,Germany
+62,Organizing,Jaorg Ott,2012,"Aalto University, Finland",Europe,Male,1997,Finland
+63,Organizing,Venkat Padmanabhan,2012,"Microsoft Research, India",Asia,Male,1998,India
+64,Organizing,George Varghese,2012,"UCSD, USA",North America,Male,1992,United States
+65,Organizing,Jussi Kangasharju,2012,"University of Helsinki, Finland",Europe,Male,2002,Finland
+66,Organizing,Jukka Manner,2012,"Aalto University, Finland",Europe,Male,2004,Finland
+67,Organizing,Joe Touch,2012,"USC/ISI, USA",North America,Male,1992,United States
+68,Organizing,Dina Katabi,2012,"MIT, USA",North America,Female,2003,United States
+69,Organizing,Jitendra Padhye,2012,"Microsoft Research, USA",North America,Male,2000,United States
+70,Organizing,Kevin Almeroth,2012,"University of California, Santa Barbara, USA",North America,Male,1997,United States
+71,Organizing,Colin Perkins,2012,"University of Glasgow, UK",Europe,Male,1996,United Kingdom
+72,Organizing,Andrea Passarella,2012,"CNR IIT, Italy",Europe,Male,2005,Italy
+73,Organizing,Ryuji Wakikawa,2012,"Toyota ITC, USA/Japan",Asia,Male,2003,United States
+74,Organizing,Marcelo Bagnulo,2012,"Universidad Carlos III de Madrid, Spain",Europe,Male,2005,Spain
+75,Organizing,Polly Huang,2012,"National Taiwan University, Taiwan",Asia,Female,1999,China
+76,Organizing,Sharon Goldberg,2012,"Boston University, USA",North America,Female,2009,United States
+77,Organizing,Liang Wang,2012,"University of Helsinki, Finland",Europe,Male,2014,Finland
+78,Organizing,Jaudelice de Oliveira,2012,"Drexel University, USA",North America,Female,2003,United States
+79,Organizing,Dah Ming Chiu,2013,"The Chinese University of Hong Kong, China",Asia,Male,1980,China
+80,Organizing,Jia Wang,2013,"AT&T Labs - Research, USA",North America,Female,2000,United States
+81,Organizing,Paul Barford,2013,"University of Wisconsin, USA",North America,Male,2000,United States
+82,Organizing,Srinivasan Seshan,2013,"Carnegie Mellon University, USA",North America,Male,1995,United States
+83,Organizing,Xiaohua Jia,2013,"City University of Hong Kong, China",Asia,Male,1991,China
+84,Organizing,Patrick P. C. Lee,2013,"The Chinese University of Hong Kong, China",Asia,Male,2008,China
+85,Organizing,Wing Cheong Lau,2013,"The Chinese University of Hong Kong, China",Asia,Male,1995,China
+86,Organizing,Aditya Akella,2013,"University of Wisconsin, USA",North America,Male,2005,United States
+87,Organizing,Ratul Mahajan,2013,"Microsoft Research, USA",North America,Male,2005,United States
+88,Organizing,Lili Qiu,2013,"University of Texas, USA",North America,Female,2001,United States
+89,Organizing,Helen Wang,2013,"Microsoft Research, USA",North America,Female,2001,United States
+90,Organizing,Nick Feamster,2013,"Georgia Institute of Technology, USA",North America,Male,2005,United States
+91,Organizing,Vijay Gopalakrishnan,2013,"AT&T Labs - Research, USA",North America,Male,2006,United States
+92,Organizing,Yongguang Zhang,2013,"Microsoft Research Asia, China",Asia,Male,1994,China
+93,Organizing,Jun Bi,2013,"Tsinghua University, China",Asia,Male,Phd,China
+94,Organizing,Zihui Ge,2013,"AT&T Labs - Research, USA",North America,Male,2003,United States
+95,Organizing,Krishna Gummadi,2013,"MPI-SWS, Germany",Europe,Male,2005,Germany
+96,Organizing,Y. Charlie Hu,2013,"Purdue University, USA",North America,Male,1997,United States
+97,Organizing,Augustin Chaintreau,2013,"Columbia University, USA",North America,Male,2006,United States
+98,Organizing,Polly Huang,2013,"National Taiwan University, R.O.China",Asia,Female,1999,China
+99,Organizing,Carmen Guerrero,2013,University Carlos III Madrid,Europe,Female,1998,Spain
+100,Organizing,Kwok Wai Cheung,2013,"The Chinese University of Hong Kong, China",Asia,Male,1987,China
+101,Organizing,Bruce Maggs,2013,"Duke University, USA",North America,Male,1989,United States
+102,Organizing,Jaudelice de Oliveira,2013,"Drexel University, USA",North America,Female,2003,United States
+103,Organizing,Fabián E. Bustamante,2014,"Northwestern U., USA",North America,Male,2001,United States
+104,Organizing,Y. Charlie Hu,2014,"Purdue U., USA",North America,Male,1997,United States
+105,Organizing,Yan Chen,2014,"Northwestern U., USA",North America,Male,2003,United States
+106,Organizing,Jakob Eriksson,2014,"University of Illinois, Chicago, USA",North America,Male,2006,United States
+107,Organizing,Randall Berry,2014,"Northwestern U., USA",North America,Male,2000,United States
+108,Organizing,Matthew Caesar,2014,"U. of Illinois, Urbana-Champaign, USA",North America,Male,2007,United States
+109,Organizing,Ming Zhang,2014,"Microsoft Research, USA",North America,Male,2005,United States
+110,Organizing,Sonia Fahmy,2014,"Purdue U., USA",North America,Female,1999,United States
+111,Organizing,Jia Wang,2014,"AT&T Labs, USA",North America,Female,2000,United States
+112,Organizing,David R. Choffnes,2014,"Northeastern University, USA",North America,Male,2010,United States
+113,Organizing,Kun Tan,2014,"Microsoft Research, China",Asia,Male,?,China
+114,Organizing,Xenofontas Dimitropulos,2014,"ETH Zurich, Switzerland",Europe,Male,2006,Switzerland
+115,Organizing,Phillipa Gill,2014,"Stony Brook U., USA",North America,Female,2012,United States
+116,Organizing,Bin Liu,2014,"Tsinghua U., China",Asia,Male,1993,China
+117,Organizing,Claudio Righetti,2014,"Universidad de Buenos Aires, Argentina",South America,Male,2000,Argentina
+118,Organizing,Robin Kravets,2014,"U. of Illinois, Urbana-Champaign, USA",North America,Female,1999,United States
+119,Organizing,Minlan Yu,2014,"University of Southern California, USA",North America,Female,2011,United States
+120,Organizing,Tilman Wolf,2014,"University of Massachusetts Amherst, USA",North America,Male,2002,United States
+121,Organizing,Ignacio Alvarez-Hamelin,2014,"Universidad de Buenos Aires, Argentina",South America,Male,2002,Argentina
+122,Organizing,Wenjun Hu,2014,"Yale University, USA",North America,Female,2008,United States
+123,Organizing,Dimitrios Koutsonikolas,2014,"U. at Buffalo, SUNY, USA",North America,Male,2010,United States
+124,Organizing,Marco Mellia,2014,"Politecnico di Torino, Italy",Europe,Male,2000,Italy
+125,Organizing,Sujata Banerjee,2014,"HP Labs, USA",North America,Female,1993,United States
+126,Organizing,P. Brighten Godfrey,2014,"U. of Illinois, Urbana-Champaign, USA",North America,Male,2009,United States
+127,Organizing,Yashar Ganjali,2014,"U. of Toronto, Canada",North America,Male,2006,Canada
+128,Organizing,Jaudelice de Oliveira,2014,"Drexel University, USA",North America,Female,2003,United States
+129,Organizing,Steve Uhlig,2015,"Queen Mary University of London, UK",Europe,Male,2004,United Kingdom
+130,Organizing,Olaf Maennel,2015,"Tallinn U. of Technology, Estonia",Europe,Male,2005,Estonia
+131,Organizing,Hamed Haddadi,2015,"Queen Mary U. of London, UK",Europe,Male,2008,United Kingdom
+132,Organizing,Paolo Costa,2015,"Microsoft Research Cambridge, UK",Europe,Male,2002,United Kingdom
+133,Organizing,Jon Crowcroft,2015,"U. of Cambridge, UK",Europe,Male,1993,United Kingdom
+134,Organizing,Christophe Diot,2015,"Technicolor, France",Europe,Male,1991,France
+135,Organizing,Luigi Rizzo,2015,"U. di Pisa, Italy",Europe,Male,1998,Italy
+136,Organizing,Richard Mortier,2015,"U. of Nottingham, UK",Europe,Male,2001,United Kingdom
+137,Organizing,Cigdem Sengul,2015,"Oxford-Brookes U., UK",Europe,Female,2007,United Kingdom
+138,Organizing,Craig Partridge,2015,"Raytheon BBN, USA",North America,Male,1992,United States
+139,Organizing,Fahad Dogar,2015,"Raytheon BBN, USA",North America,Male,2012,United States
+140,Organizing,Olivier Bonaventure,2015,"U. Catolique de Louvaine, Belgium",Europe,Male,1999,Belgium
+141,Organizing,Cristel Pelsser,2015,"IIJ, Japan",Asia,Female,2006,Japan
+142,Organizing,Georgios Smaragdakis,2015,"MIT, USA and TU Berlin, Germany",Europe,Male,2009,United States
+143,Organizing,Theophilus Benson,2015,"Duke U., USA",North America,Male,2012,United States
+144,Organizing,Gaogang Xie,2015,"ICT CAS, China",Asia,Male,?,China
+145,Organizing,Chadi  Barakat,2015,"Inria Sophia Antipolis, France",Europe,Male,2001,France
+146,Organizing,Gonca Gursun,2015,"Ozyegin University, Turkey",Asia,Female,2013,Turkey
+147,Organizing,Ethan Katz-Bassett,2015,"U. of Southern California, USA",North America,Male,2012,United States
+148,Organizing,Te-Yuan Huang,2015,"Netflix, USA",North America,Female,2014,United States
+149,Organizing,Maria Kazandjieva,2015,"Netflix, USA",North America,Female,2012,United States
+150,Organizing,Justine Sherry,2015,"U. of Berkeley, USA",North America,Male,2016,United States
+151,Organizing,Vyas Sekar,2015,"Carnegie Mellon U., USA",North America,Male,2010,United States
+152,Organizing,Christian Kreibich,2015,"ICSI, U. of Berkeley, USA",North America,Male,2004,United States
+153,Organizing,Matthew Roughan,2015,"U. of Adelaide, Australia",Australia,Male,1994,Australia
+154,Organizing,Andrew Moore,2015,"U. of Cambridge, UK",Europe,Male,2001,United Kingdom
+155,Organizing,Miguel Rio,2015,"U. College London, UK",Europe,Male,Phd,United Kingdom
+156,Organizing,Felix Cuadrado,2015,"Queen Mary U. of London, UK",Europe,Male,2009,United Kingdom
+157,Organizing,Renata Teixeira,2015,Inria Paris-Rocquencourt,Europe,Female,2005,France
+158,Organizing,Nick Feamster,2015,"Princeton U., USA",North America,Male,2005,United States
+159,Organizing,Yashar Ganjali,2015,"U. of Toronto, Canada",North America,Male,2006,Canada
+160,Organizing,Marinho P Barcellos,2016,"UFRGS, Brazil",South America,Female,1998,Brazil
+161,Organizing,Jon Crowcroft,2016,"University of Cambridge, UK",Europe,Male,1993,United Kingdom
+162,Organizing,Fabíola Greve,2016,"UFBA, Brazil",South America,Female,2002,Brazil
+163,Organizing,Leobino Sampaio,2016,"UFBA, Brazil",South America,Male,2011,Brazil
+164,Organizing,Pan Hui,2016,"Hong Kong U. of Science and Technology, Hong Kong",Asia,Male,2008,China
+165,Organizing,Christian E Rothenberg,2016,"UNICAMP, Brazil",South America,Male,2010,Brazil
+166,Organizing,Fahad Dogar,2016,"Tufts University, USA",North America,Male,2012,United States
+167,Organizing,Craig Partridge,2016,"Raytheon BBN Technologies, USA",North America,Male,1992,United States
+168,Organizing,Aruna Balasubramanian,2016,"Stony Brook University, USA",North America,Female,2011,United States
+169,Organizing,Te-Yuan Huang,2016,"Netflix, USA",North America,Female,2014,United States
+170,Organizing,Marco Canini,2016,"KAUST, KSA",Asia,Male,2009,Saudi Arabia
+171,Organizing,Daniel R Figueiredo,2016,"UFRJ, Brazil",South America,Male,2005,Brazil
+172,Organizing,Aakanksha Chowdhery,2016,"Princeton University, USA",North America,Female,2012,United States
+173,Organizing,Matteo Varvello,2016,"Telefonica, Spain",Europe,Male,2009,Spain
+174,Organizing,Ronaldo A Ferreira,2016,"UFMS, Brazil",South America,Male,2006,Brazil
+175,Organizing,Hamed Haddadi,2016,"Queen Mary U. of London, UK",Europe,Male,2008,United Kingdom
+176,Organizing,Sharon Goldberg,2016,"Boston University, USA",North America,Female,2009,United States
+177,Organizing,Ítalo Cunha,2016,"UFMG, Brazil",South America,Male,2011,Brazil
+178,Organizing,Ethan Katz-Bassett,2016,"University of Southern California, USA",North America,Male,2012,United States
+179,Organizing,Maria Kazandjieva,2016,"Netflix, USA",North America,Female,2012,United States
+180,Organizing,Phillipa Gill,2016,"Stony Brook University, USA",North America,Female,2012,United States
+181,Organizing,Lisandro Z Granville,2016,"UFRGS, Brazil",South America,Male,2001,Brazil
+182,Organizing,Sue Moon,2016,"KAIST , Korea",Asia,Female,2000,"Korea, Republic of"
+183,Organizing,Costin Raiciu,2016,"University Politehnica of Bucharest, Romania",Europe,Male,2011,Romania
+184,Organizing,Christophe Diot,2016,"Safran Analytics, France",Europe,Male,1991,France
+185,Organizing,Raj Jain,2016,"Washington University in St. Louis, USA",North America,Male,1978,United States
+186,Organizing,Weverton Cordeiro,2016,"UFRGS, Brazil",South America,Male,2014,Brazil
+187,Organizing,Anna-Kaisa Pietilainen,2016,"Inria, France",Europe,Female,2010,France
+188,Organizing,Jussara Almeida,2016,"UFMG, Brazil",South America,Female,2003,Brazil
+189,Organizing,Lars Eggert,2016,"Netapp, Germany",Europe,Male,2003,Germany
+190,Organizing,Yashar Ganjali,2016,"University of Toronto, Canada",North America,Male,2006,Canada
+191,Organizing,K. K. Ramakrishnan,2017,"University of California, Riverside",North America,Male,1983,United States
+192,Organizing,Lixia Zhang,2017,"University of California, Los Angeles",North America,Female,1989,United States
+193,Organizing,Peter Reiher,2017,"University of California, Los Angeles",North America,Male,1987,United States
+194,Organizing,Bharathan Balaji,2017,"University of California, Los Angeles",North America,Male,2016,United States
+195,Organizing,Fahad Dogar,2017,Tufts University,North America,Male,2012,United States
+196,Organizing,Sergey Gorinsky,2017,IMDEA Networks Institute,Europe,Male,2003,Spain
+197,Organizing,Alex Afanasyev,2017,Florida International University,North America,Male,2013,United States
+198,Organizing,Mayutan Arumaithurai,2017,University of Goettingen,Europe,Male,2010,Germany
+199,Organizing,Dan Li,2017,Tsinghua University,Asia,Male,2007,China
+200,Organizing,Jiasi Chen,2017,"University of California, Riverside",North America,Female,2015,United States
+201,Organizing,Lan Wang,2017,University of Memphis,North America,Female,2004,United States
+202,Organizing,Hamed Haddadi,2017,"Queen Mary University of London, UK",Europe,Male,2008,United Kingdom
+203,Organizing,Minlan Yu,2017,Yale University,North America,Female,2011,United States
+204,Organizing,Lars Eggert,2017,NetApp,Europe,Male,2003,Germany
+205,Organizing,Lili Qiu,2017,University of Texas at Austin,North America,Female,2001,United States
+206,Organizing,David Oran,2017,Unknown,North America,Male,?,United States
+207,Organizing,Bruce Maggs,2017,Duke Univeristy / Akamai Technologies,North America,Male,1989,United States
+208,Organizing,Yashar Ganjali,2017,"University of Toronto, Canada",North America,Male,2006,Canada
+209,Organizing,Alex C. Snoeren,2017,UC San Diego,North America,Male,2002,United States
+210,Organizing,Walter Willinger,2017,"NIKSUN, Inc.",North America,Male,1987,United States
+211,Organizing,Radhika Niranjan Mysore,2017,VMware Research,North America,Female,2013,United States
+212,Organizing,Matthias Waschlisch,2017,"Freie UniversitÃ¤t Berlin, Germany",Europe,Male,2016,Germany
+213,Organizing,Jeff Burke,2017,"University of California, Los Angeles",North America,Male,None,United States
+214,Organizing,Nicholas Zhang,2017,Huawei,Europe,Male,?,Bulgaria
+215,Organizing,David Meyer,2017,Brocade,North America,Male,?,United States
+216,Organizing,Puneet Sharma,2017,Hewlett Packard Labs,North America,Male,1998,United States
+217,Organizing,Vishal Misra,2017,Columbia University,North America,Male,2000,United States
+218,Organizing,Vyas Sekar,2017,Carnegie Mellon University,North America,Male,2010,United States
+219,Organizing,Ethan Katz-Bassett,2017,University of Southern California,North America,Male,2012,United States
+220,Organizing,Justine Sherry,2017,Carnegie Mellon University,North America,Male,2016,United States
+221,Organizing,Giovanni Pau,2017,"University Pierre et Marie Curie/LIP6, Paris, France",Europe,Male,2002,France
+222,Organizing,Vahab Pournaghshband,2017,"California State University, Northridge",North America,Male,2014,United States
+223,Organizing,Sergey Gorinsky,2018,"IMDEA, Spain",Europe,Male,2003,Spain
+224,Organizing,Janos Tapolcai,2018,"BME, Hungary",Europe,Male,2005,Hungary
+225,Organizing,Tilman Wolf,2018,"UMass, USA",North America,Male,2002,United States
+226,Organizing,Mark Handley,2018,"UCL, UK",Europe,Male,1997,United Kingdom
+227,Organizing,Dina Katabi,2018,"MIT, USA",North America,Female,2003,United States
+228,Organizing,Xiaoming Fu,2018,"GAU, Germany",Europe,Male,2000,Germany
+229,Organizing,K. K. Ramakrishnan,2018,"UCR, USA",North America,Male,1983,United States
+230,Organizing,Marco Canini,2018,"KAUST, KSA",Asia,Male,2009,Saudi Arabia
+231,Organizing,Balazs Sonkoly,2018,"BME, Hungary",Europe,Male,2010,Hungary
+232,Organizing,Aleksandar Kuzmanovic,2018,"Northwestern, USA",North America,Male,2004,United States
+233,Organizing,Matteo Varvello,2018,"AT&T, USA",North America,Male,2009,United States
+234,Organizing,Suresh Subramaniam,2018,"GWU, USA",North America,Male,1997,United States
+235,Organizing,Szabolcs Malomsoky,2018,"Ericsson, Hungary",Europe,Male,2003,Hungary
+236,Organizing,Ruslan Smeliansky,2018,"MSU and ARCCN, Russia",Europe,Male,1990,Russian Federation
+237,Organizing,Andras Csaszar,2018,"Ericsson, Hungary",Europe,Male,2008,Hungary
+238,Organizing,Ravi Kokku,2018,"IBM, USA",North America,Male,2005,United States
+239,Organizing,Costin Raiciu,2018,"UPB, Romania",Europe,Male,2011,Romania
+240,Organizing,Marco Chiesa,2018,"KTH, Sweden",Europe,Male,2014,Sweden
+241,Organizing,Zhi-Li Zhang,2018,"UMN, USA",North America,Male,1997,United States
+242,Organizing,Fernando Kuipers,2018,"TU Delft, Netherlands",Europe,Male,2004,Netherlands
+243,Organizing,Gabor Retvari,2018,"BME, Hungary",Europe,Male,2007,Hungary
+244,Organizing,Vasileios Giotsas,2018,"Lancaster, UK",Europe,Male,2014,United Kingdom
+245,Organizing,Zoltan Lazar,2018,"Nokia, Hungary",Europe,Male,2003,Hungary
+246,Organizing,Levente Csikor,2018,"BME, Hungary and Unicamp, Brazil",South America,Male,2015,Hungary
+247,Organizing,Istvan Godor,2018,"Ericsson, Hungary",Europe,Male,2005,Hungary
+248,Organizing,Zalan Heszberger,2018,"BME, Hungary",Europe,Male,2007,Hungary
+249,Organizing,Michael Schapira,2018,"HUJI, Israel",Asia,Male,2008,Israel
+250,Organizing,Stefan Schmid,2018,"Univie, Austria",Europe,Male,2008,Austria
+251,Organizing,Joseph Tardo,2018,"tardo, USA",North America,Male,?,United States
+252,Organizing,Christina Vlachou,2018,"HPE, USA",North America,Female,2016,United States
+253,Organizing,Antonio Fernandez Anta,2018,"IMDEA, Spain",Europe,Male,1994,Spain
+254,Organizing,Jasleen Kaur,2018,"UNC, USA",North America,Female,2002,United States
+255,Organizing,Ignacio Castro,2018,"QMUL, UK",Europe,Male,2015,United Kingdom
+256,Organizing,Pin-Han Ho,2018,"UWaterloo, Canada",North America,Male,2002,Canada
+257,Organizing,Henry Xu,2018,"CityU, China",Asia,Male,2013,China
+258,Organizing,Bruce Maggs,2018,"Duke and Akamai, USA",North America,Male,1989,United States
+259,Organizing,Justine Sherry,2018,"CMU, USA",North America,Male,2016,United States
+260,Organizing,Steve Uhlig,2018,"QMUL, UK",Europe,Male,2004,United Kingdom
+261,Organizing,Jianping Wu,2019,"Tsinghua University, China",Asia,Male,1997,China
+262,Organizing,Wendy Hall,2019,"University of Southampton, UK",Europe,Female,1977,United Kingdom
+263,Organizing,Yong Cui,2019,"Tsinghua University, China",Asia,Male,2004,China
+264,Organizing,Xiangyang Li,2019,"USTC, China",Asia,Male,2001,China
+265,Organizing,Katerina Argyraki,2019,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+266,Organizing,John Heidemann,2019,"USC/ISI, USA",North America,Male,1995,United States
+267,Organizing,Ashutosh Sabharwal,2019,"Rice University, USA",North America,Male,1999,United States
+268,Organizing,Lixin Gao,2019,"UMass, USA",North America,Female,1997,United States
+269,Organizing,Srinivasan Keshav,2019,"University of Waterloo, Canada",North America,Male,1991,Canada
+270,Organizing,Lixia Zhang,2019,"UCLA, USA",North America,Female,1989,United States
+271,Organizing,Xiaoming Fu,2019,"University of Goettingen, Germany",Europe,Male,2000,Germany
+272,Organizing,Zhili Zhang,2019,"UMN, USA",North America,Male,1997,United States
+273,Organizing,Gaogang Xie,2019,"ICT, China",Asia,Male,?,China
+274,Organizing,Kai Chen,2019,"HKUST, China",Asia,Male,2012,China
+275,Organizing,Jaorg Ott,2019,"Technical University of Munich, Germany",Europe,Male,1997,Germany
+276,Organizing,Ming Zhang,2019,"Alibaba, USA",North America,Male,2005,United States
+277,Organizing,K. K. Ramakrishnan,2019,"UC Riverside, USA",North America,Male,1983,United States
+278,Organizing,Mingwei Xu,2019,"Tsinghua University, China",Asia,Male,1998,China
+279,Organizing,Wei Bai,2019,"Microsoft Research, Redmond",North America,Male,2017,United States
+280,Organizing,Wenfei Wu,2019,"Tsinghua University, China",Asia,Male,2015,China
+281,Organizing,Xia Yin,2019,"Tsinghua University, China",Asia,Female,2000,China
+282,Organizing,Xiaochun Yun,2019,"CNCERT, China",Asia,Male,1998,China
+283,Organizing,Deke Guo,2019,"NUDT, China",Asia,Male,2008,China
+284,Organizing,Chenren Xu,2019,"Peking University, China",Asia,Male,2014,China
+285,Organizing,Ke Xu,2019,"Tsinghua University, China",Asia,Male,2001,China
+286,Organizing,Xiuzhen Cheng,2019,"The George Washington University, USA",North America,Female,2002,United States
+287,Organizing,Paolo Costa,2019,"Microsoft Research, UK",Europe,Male,2002,United Kingdom
+288,Organizing,Yanyong Zhang,2019,"USTC, China",Asia,Female,2002,China
+289,Organizing,Lan Wang,2019,"University of Memphis, USA",North America,Female,2004,United States
+290,Organizing,Hongqiang Liu,2019,"Alibaba, USA",North America,Male,2014,United States
+291,Organizing,Hongbin Luo,2019,"BUAA, China",Asia,Male,2007,China
+292,Organizing,Sheng Zhong,2019,"Nanjing University, China",Asia,Male,2004,China
+293,Organizing,Yongqiang Xiong,2019,"Microsoft Research, China",Asia,Male,2001,China
+294,Organizing,Keith Winstein,2019,"Stanford University, USA",North America,Male,2014,United States
+295,Organizing,Xin Jin,2019,"Johns Hopkins University, USA",North America,Male,2016,United States
+296,Organizing,Lili Qiu,2019,"UT Austin, USA",North America,Female,2001,United States
+297,Organizing,Huadong Ma,2019,"BUPT, China",Asia,Male,1995,China
+298,Organizing,Dan Wang,2019,"Hong Kong Polytechnic University, China",Asia,Male,2007,China
+299,Organizing,Timothy Wood,2019,"The George Washington University, USA",North America,Male,2011,United States
+300,Organizing,Junzhou Luo,2019,"Southeast University, China",Asia,Male,2000,China
+301,Organizing,Kui Ren,2019,"Zhejiang University, China",Asia,Male,2007,China
+302,Organizing,Kun Tan,2019,"Huawei, China",Asia,Male,?,China
+303,Organizing,Jiangchuan Liu,2019,"Simon Fraser University, Canada",North America,Male,2003,Canada
+304,Organizing,Steve Uhlig,2019,"University of London, UK",Europe,Male,2004,United Kingdom
+305,Organizing,Vishal Misra,2020,Columbia University,North America,Male,2000,United States
+306,Organizing,Henning Schulzrinne,2020,Columbia University,North America,Male,1992,United States
+307,Organizing,Sujata Banerjee,2020,VMware Research,North America,Female,1993,United States
+308,Organizing,Ratul Mahajan,2020,"University of Washington, Intentionet",North America,Male,2005,United States
+309,Organizing,Laurent Vanbever,2020,ETH Zurich,Europe,Male,2012,Switzerland
+310,Organizing,Stefano Vissicchio,2020,University College London,Europe,Male,2012,United Kingdom
+311,Organizing,Manya Ghobadi,2020,MIT,North America,Female,2013,United States
+312,Organizing,Michael Schapira,2020,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+313,Organizing,Ihsan Ayyub Qazi,2020,LUMS,Asia,Male,2010,Pakistan
+314,Organizing,Rachit Agarwal,2020,Cornell University,North America,Male,2012,United States
+315,Organizing,Jia Wang,2020,AT&T Research Labs,North America,Female,2000,United States
+316,Organizing,Ying Zhang,2020,Facebook,North America,Female,2009,United States
+317,Organizing,Fred Jiang,2020,Columbia University,North America,Male,2010,United States
+318,Organizing,Yong Liu,2020,NYU,North America,Male,2002,United States
+319,Organizing,Srinivas Narayana,2020,Rutgers University,North America,Male,2016,United States
+320,Organizing,Anees Shaikh,2020,Google,North America,Male,1998,United States
+321,Organizing,Ethan Katz-Bassett,2020,Columbia University,North America,Male,2012,United States
+322,Organizing,Aruna Balasubramanian,2020,Stony Brook University,North America,Female,2011,United States
+323,Organizing,Ravi Netravali,2020,University of California at Los Angeles,North America,Male,2018,United States
+324,Organizing,Tianbai Ma,2020,NUS,Asia,Male,2010,Singapore
+325,Organizing,Aurojit Panda,2020,NYU,North America,Male,2017,United States
+326,Organizing,Mina Tashmabi Arashloo,2020,Cornell University,North America,Female,2022,United States
+327,Organizing,Arpit Gupta,2020,UCSB,North America,Male,2018,United States
+328,Organizing,Gautam Kumar,2020,Google,North America,Male,2013,United States
+329,Organizing,Matthew Caesar,2020,University of Illinois at Urbana-Champaign,North America,Male,2007,United States
+330,Organizing,Fernando Kuipers,2021,Delft University of Technology,Europe,Male,2004,Netherlands
+331,Organizing,Matthew Caesar,2021,University of Illinois at Urbana-Champaign,North America,Male,2007,United States
+332,Organizing,Aditya Akella,2021,University of WisconsinâMadison,North America,Male,2005,United States
+333,Organizing,Nandita Dukkipati,2021,Google,North America,Female,2007,United States
+334,Organizing,Jaorg Ott,2021,Technische UniversitÃ¤t MÃ¼nchen,Europe,Male,1997,Germany
+335,Organizing,Zhi-Li Zhang,2021,University of Minnesota,North America,Male,1997,United States
+336,Organizing,Danny Raz,2021,Technion & Google,Asia,Male,1996,Israel
+337,Organizing,Yang Chen,2021,Fudan University,North America,Male,2017,China
+338,Organizing,Gabor Retvari,2021,Budapest University of Technology and Economics,Europe,Male,2007,Hungary
+339,Organizing,Aaron Ding,2021,Delft University of Technology,Europe,Male,2015,Netherlands
+340,Organizing,Ramakrishnan Durairajan,2021,University of Oregon,North America,Male,2017,United States
+341,Organizing,David Choffnes,2021,Northeastern University,North America,Male,2010,United States
+342,Organizing,Athina Markopoulou,2021,UC Irvine,North America,Female,2003,United States
+343,Organizing,Marco Chiesa,2021,KTH Royal Institute of Technology,Europe,Male,2014,Sweden
+344,Organizing,Marinho Barcellos,2021,University of Waikato,Australia,Female,1998,New Zealand
+345,Organizing,Pan Hui,2021,Hong Kong University of Science and Technology,Asia,Male,2008,China
+346,Organizing,Ellen Zegura,2021,Georgia Tech,North America,Female,1993,United States
+347,Organizing,Tilman Wolf,2021,University of Massachusetts Amherst,North America,Male,2002,United States
+348,Organizing,Michael Schapira,2021,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+349,Organizing,Christian Doerr,2021,University of Potsdam,Europe,Male,Phd,Germany
+350,Organizing,Roland van Rijswijk-Deij,2021,University of Twente,Europe,Male,2017,Netherlands
+351,Organizing,Pedro Casas,2021,Austrian Institute of Technology,Europe,Male,2013,Austria
+352,Organizing,Christian Esteve Rothenberg,2021,University of Campinas,South America,Male,2010,Brazil
+353,Organizing,Chenren Xu,2021,Peking University,Asia,Male,2014,China
+354,Organizing,"Taejoong ""Tijay"" Chung",2021,Virginia Tech,North America,Male,2015,United States
+355,Organizing,Qing Wang,2021,Delft University of Technology,Europe,Male,2016,Netherlands
+356,Organizing,Paola Grosso,2021,University of Amsterdam,Europe,Female,1999,Netherlands
+357,Organizing,Karin Anna Hummel,2021,Johannes Kepler University Linz,Europe,Female,2005,Austria
+358,Organizing,Andra Lutu,2021,Telefonica Research,Europe,Female,2014,Spain
+359,Organizing,Hamed Haddadi,2021,Imperial College London,Europe,Male,2008,United Kingdom
+360,Organizing,Dave Levin,2021,University of Maryland,North America,Male,2010,United States
+361,Organizing,Fernando Kuipers,2022,Delft University of Technology,Europe,Male,2004,Netherlands
+362,Organizing,Ariel Orda,2022,Technion Israel Institute of Technology,Asia,Male,1991,Israel
+363,Organizing,Brighten Godfrey,2022,University of Illinois at Urbana-Champaign,North America,Male,2009,United States
+364,Organizing,Bruce Maggs,2022,Duke University and Emerald Innovations,North America,Male,1989,United States
+365,Organizing,Sergey Gorinsky,2022,IMDEA Networks Institute,Europe,Male,2003,Spain
+366,Organizing,Anat Bremler-Barr,2022,Reichman University,Asia,Female,2002,Israel
+367,Organizing,Zhi-Li Zhang,2022,University of Minnesota,North America,Male,1997,United States
+368,Organizing,Yang Chen,2022,Fudan University,North America,Male,2017,China
+369,Organizing,Gabor Retvari,2022,Budapest University of Technology and Economics & Ericsson Research,Europe,Male,2007,Hungary
+370,Organizing,Danny Raz,2022,Technion Israel Institute of Technology,Asia,Male,1996,Israel
+371,Organizing,Alex Sprintson,2022,Texas A&M University,North America,Male,2003,United States
+372,Organizing,Ignacio Castro,2022,Queen Mary University of London,Europe,Male,2015,United Kingdom
+373,Organizing,Gareth Tyson,2022,Hong Kong University of Science and Technology,Europe,Male,2010,China
+374,Organizing,Marco Chiesa,2022,KTH Royal Institute of Technology,Europe,Male,2014,Sweden
+375,Organizing,Karin Anna Hummel,2022,Johannes Kepler University Linz,Europe,Female,2005,Austria
+376,Organizing,Tilman Wolf,2022,University of Massachusetts Amherst,North America,Male,2002,United States
+377,Organizing,Michael Schapira,2022,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+378,Organizing,Qing Wang,2022,Delft University of Technology,Europe,Male,2016,Netherlands
+379,Organizing,Andra Lutu,2022,Telefonica Research,Europe,Female,2014,Spain
+380,Organizing,Matthew Caesar,2022,University of Illinois at Urbana-Champaign,North America,Male,2007,United States
+381,Organizing,Pan Hui,2022,Hong Kong University of Science and Technology,Asia,Male,2008,China
+382,Organizing,Aaron Ding,2022,Delft University of Technology,Europe,Male,2015,Netherlands
+383,Organizing,Pedro Casas,2022,AIT Austrian Institute of Technology,Europe,Male,2013,Austria
+384,Organizing,Christian Esteve Rothenberg,2022,University of Campinas,South America,Male,2010,Brazil
+385,Organizing,Fernando Ramos,2022,University of Lisbon,Europe,Male,2013,Portugal
+386,Organizing,"Taejoong ""Tijay"" Chung",2022,Virginia Tech,North America,Male,2015,United States
+387,Organizing,Lin Wang,2022,Vrije Universiteit Amsterdam,Europe,Male,2015,Netherlands
+388,Organizing,Paola Grosso,2022,University of Amsterdam,Europe,Female,1999,Netherlands
+389,Organizing,Yiting Xia,2022,Max Planck Institute for Informatics,Europe,Female,2018,Germany
+390,Organizing,Mina Tahmasbi Arashloo,2022,University of Waterloo,North America,Female,2022,Canada
+391,Organizing,Chen Qian,2022,University of California Santa Cruz,North America,Male,2013,United States
+392,Organizing,Jasleen Kaur,2022,University of North Carolina at Chapel Hill,North America,Female,2002,United States
+393,Organizing,Vishal Misra,2023,Columbia University,North America,Male,2000,United States
+394,Organizing,Henning Schulzrinne,2023,Columbia University,North America,Male,1992,United States
+395,Organizing,Eddie Kohler,2023,Harvard University,North America,Male,2001,United States
+396,Organizing,David Maltz,2023,Microsoft,North America,Male,2001,United States
+397,Organizing,Lin Wang,2023,Vrije Universiteit Amsterdam,Europe,Male,2015,Netherlands
+398,Organizing,Emmanouil Vasilomanolakis,2023,Technical University of Denmark,Europe,Male,2016,Denmark
+399,Organizing,Dan Rubenstein,2023,Columbia University,North America,Male,2000,United States
+400,Organizing,Aaron Ding,2023,Delft University of Technology,Europe,Male,2015,Netherlands
+401,Organizing,Kostis Kaffes,2023,Stanford University,North America,Male,2022,United States
+402,Organizing,Timothy Wood,2023,George Washington University,North America,Male,2011,United States
+403,Organizing,Sangeetha Abdu Jyothi,2023,"University of California, Irvine",North America,Female,2019,United States
+404,Organizing,Ethan Katz-Bassett,2023,Columbia University,North America,Male,2012,United States
+405,Organizing,Todd Arnold,2023,U.S. Military Academy at West Point,North America,Male,2020,United States
+406,Organizing,Matt Calder,2023,Columbia University & Meta,North America,Male,2018,United States
+407,Organizing,Jan Janak,2023,Columbia University,North America,Male,2022,United States
+408,Organizing,Xiaofan (Fred) Jiang,2023,Columbia University,North America,Male,2010,United States
+409,Organizing,Joerg Ott,2023,"Aalto University, Finland",Europe,Male,1997,Finland
+410,Organizing,Minmei Wang,2023,University of Connecticut,North America,Female,2022,United States
+411,Organizing,Zihui Ge,2023,AT&T Research,North America,Male,2003,United States
+412,Organizing,Jia Wang,2023,AT&T Labs,North America,Female,2000,United States
+413,Organizing,Maria Apostolaki,2023,Princeton University,North America,Female,2021,United States
+414,Organizing,Vishal Shrivastav,2023,Purdue University,North America,Male,2020,United States
+415,Organizing,Lachlan Andrew,2023,University of Melbourne,Australia,Male,1997,Australia
+416,Organizing,Xia Zhou,2023,Columbia University,North America,Female,2013,United States
+417,Organizing,Tianbai Ma,2023,NUS (Singapore),Asia,Male,2010,Singapore
+418,Organizing,Feng Qian,2023,University of Minnesota,North America,Male,2012,United States
+419,Program,Dina Papagiannaki,2009,"Intel Research, USA",North America,Female,2003,United States
+420,Program,Luigi Rizzo,2009,"Universit di Pisa, Italy",Europe,Male,1998,Italy
+421,Program,David Andersen,2009,"Carnegie Mellon University, USA",North America,Male,2004,United States
+422,Program,Suman Banerjee,2009,"University of Wisconsin, Madison, USA",North America,Male,2003,United States
+423,Program,Ranjita Bhagwan,2009,Microsoft Research India,Asia,Female,2004,India
+424,Program,Augustin Chaintreau,2009,"Thomson, France",Europe,Male,2006,France
+425,Program,Ranveer Chandra,2009,"Microsoft Research, USA",North America,Male,2005,United States
+426,Program,Dah Ming Chiu,2009,"The Chinese University of Hong Kong, China",Asia,Male,1980,China
+427,Program,Kenjiro Cho,2009,"IIJ, Japan",Asia,Male,2001,Japan
+428,Program,Chen-Nee Chuah,2009,"UC Davis, USA",North America,Female,2001,United States
+429,Program,Jon Crowcroft,2009,"University of Cambridge, UK",Europe,Male,1993,United Kingdom
+430,Program,Saumitra Das,2009,"Qualcomm Inc., USA",North America,Male,2007,United States
+431,Program,Christophe Diot,2009,"Thomson, France",Europe,Male,1991,France
+432,Program,Anja Feldmann,2009,"Deutsche Telekom Laboratories / TU-Berlin, Germany",Europe,Female,1995,Germany
+433,Program,Roch Guerin,2009,"University of Pennsylvania, USA",North America,Male,1986,United States
+434,Program,Krishna Gummadi,2009,"MPI-SWS, Germany",Europe,Male,2005,Germany
+435,Program,Per Gunningberg,2009,"Uppsala University, Sweden",Europe,Male,1983,Sweden
+436,Program,Gianluca Iannaccone,2009,"Intel Research Berkeley, USA",North America,Male,2002,United States
+437,Program,Kyle Jamieson,2009,"University College London, UK",Europe,Male,2008,United Kingdom
+438,Program,Thomas Karagiannis,2009,"Microsoft Research, UK",Europe,Male,2006,United Kingdom
+439,Program,Brad Karp,2009,"University College London, UK",Europe,Male,2000,United Kingdom
+440,Program,Dina Katabi,2009,"MIT, USA",North America,Female,2003,United States
+441,Program,S Keshav,2009,"University of Waterloo, Canada",North America,Male,1991,Canada
+442,Program,Eddie Kohler,2009,"Meraki, Inc. / UCLA, USA",North America,Male,2001,United States
+443,Program,Dmitri Krioukov,2009,"CAIDA/UCSD San Diego, USA",North America,Male,1998,United States
+444,Program,Samuel J. Leffler,2009,Google,North America,Male,?,United States
+445,Program,Ratul Mahajan,2009,"Microsoft Research, USA",North America,Male,2005,United States
+446,Program,David Malone,2009,"Hamilton Institute, NUI Maynooth, Ireland",Europe,Male,2000,Ireland
+447,Program,David Maltz,2009,"Microsoft Research, USA",North America,Male,2001,United States
+448,Program,Morley Mao,2009,"University of Michigan, USA",North America,Female,2003,United States
+449,Program,Laurent Mathy,2009,"Lancaster University, UK",Europe,Male,2000,United Kingdom
+450,Program,David Mazieres,2009,"Stanford, USA",North America,Male,2000,United States
+451,Program,Marco Mellia,2009,"Politecnico di Torino, Italy",Europe,Male,2000,Italy
+452,Program,Michael Mitzenmacher,2009,"Harvard University, USA",North America,Male,1996,United States
+453,Program,Refik Molva,2009,"EURECOM, France",Europe,Male,?,France
+454,Program,Vivek Pai,2009,"Princeton University, USA",North America,Male,2000,United States
+455,Program,Christos Papadopoulos,2009,"Colorado State University, USA",North America,Male,1999,United States
+456,Program,Craig Partridge,2009,"BBN Technologies, USA",North America,Male,1992,United States
+457,Program,Himabindu Pucha,2009,"IBM Research, Almaden, USA",North America,Female,2007,United States
+458,Program,Lili Qiu,2009,"University of Texas at Austin, USA",North America,Female,2001,United States
+459,Program,Bhaskaran Raman,2009,"IIT Bombay, India",Asia,Male,2002,India
+460,Program,Jennifer Rexford,2009,"Princeton University, USA",North America,Female,1996,United States
+461,Program,Pablo Rodriguez,2009,"Telefonica Research, Spain",Europe,Male,2000,Spain
+462,Program,Matthew Roughan,2009,"University of Adelaide, Australia",Australia,Male,1994,Australia
+463,Program,Stefan Saroiu,2009,"Microsoft Research<, USA/td>",North America,Male,2004,United States
+464,Program,Alex Snoeren,2009,"UC San Diego, USA",North America,Male,2002,United States
+465,Program,Giovanni Stea,2009,"University of Pisa, Italy",Europe,Male,2003,Italy
+466,Program,Peter Steenkiste,2009,"Carnegie Mellon University, USA",North America,Male,1987,United States
+467,Program,Karthikeyan Sundaresan,2009,"NEC Laboratories America, USA",North America,Male,2006,United States
+468,Program,Nina Taft,2009,"Intel Research Berkeley, USA",North America,Female,1994,United States
+469,Program,Leandros Tassiulas,2009,"University of Thessaly, Greece",Europe,Male,1991,Greece
+470,Program,Renata Teixeira,2009,"CNRS and UPMC, France",Europe,Female,2005,France
+471,Program,Patrick Thiran,2009,"EPFL, Switzerland",Europe,Male,1996,Switzerland
+472,Program,Jon Turner,2009,"Washington University, USA",North America,Male,1982,United States
+473,Program,Darryl Veitch,2009,"University of Melbourne, Australia",Australia,Male,1990,Australia
+474,Program,Jia Wang,2009,"AT&T Labs - Research, USA",North America,Female,2000,United States
+475,Program,Xiaowei Yang,2009,"Duke University, USA",North America,Female,2004,United States
+476,Program,Amgad Zeitoun,2009,"Google, Inc., USA",North America,Male,2004,United States
+477,Program,Yin Zhang,2009,"University of Texas at Austin, USA",North America,Female,2020,United States
+478,Program,Zhi-Li Zhang,2009,"University of Minnesota, USA",North America,Male,1997,United States
+479,Program,K.K. Ramakrishnan,2010,"AT&T Labs - Research, USA",North America,Male,1983,United States
+480,Program,Geoff Voelker,2010,"U.C. San Diego, USA",North America,Male,2000,United States
+481,Program,Kevin Almeroth,2010,"U.C. Santa Barbara, USA",North America,Male,1997,United States
+482,Program,Ramon Caceres,2010,"AT&T Labs - Research, USA",North America,Male,1992,United States
+483,Program,Augustin Chaintreau,2010,"Thomson, France",Europe,Male,2006,France
+484,Program,Reuven Cohen,2010,"Technion, Israel",Asia,Male,1991,Israel
+485,Program,Bruce Davie,2010,"Cisco, USA",North America,Male,1988,United States
+486,Program,Cristian Estan,2010,"NetLogic Microsystem, USA",North America,Male,2003,United States
+487,Program,Ramesh Govindan,2010,"University of Southern California, USA",North America,Male,1992,United States
+488,Program,Timothy G. Griffin,2010,"University of Cambridge, UK",Europe,Male,1988,United Kingdom
+489,Program,Chuanxiong Guo,2010,"Microsoft Research Asia, China",Asia,Male,Phd,China
+490,Program,Mark Handley,2010,"University College London, UK",Europe,Male,1997,United Kingdom
+491,Program,Kyle Jamieson,2010,"University College London, UK",Europe,Male,2008,United Kingdom
+492,Program,Kevin Jeffay,2010,"University of North Carolina, USA",North America,Male,1989,United States
+493,Program,S. Keshav,2010,"University of Waterloo, Canada",North America,Male,1991,Canada
+494,Program,Murali Kodialam,2010,"Bell Labs, USA",North America,Male,1992,United States
+495,Program,Arvind Krishnamurthy,2010,"University of Washington, USA",North America,Male,1998,United States
+496,Program,Srikanth Krishnamurthy,2010,"U.C. Riverside, USA",North America,Male,1997,United States
+497,Program,Joy Kuri,2010,"Indian Institute of Science, India",Asia,Male,1995,India
+498,Program,Jinyang Li,2010,"NYU, USA",North America,Female,2005,United States
+499,Program,Michael Mitzenmacher,2010,"Harvard University, USA",North America,Male,1996,United States
+500,Program,Jeff Mogul,2010,"HP Labs, USA",North America,Male,1986,United States
+501,Program,Sue Moon,2010,"KAIST, Korea",Asia,Female,2000,"Korea, Republic of"
+502,Program,Robert Morris,2010,"MIT, USA",North America,Male,1999,United States
+503,Program,Cristina Nita-Rotaru,2010,"Purdue University, USA",North America,Female,2003,United States
+504,Program,David Oran,2010,Unknown,North America,Male,?,United States
+505,Program,Jitendra Padhye,2010,"Microsoft Research Redmond, USA",North America,Male,2000,United States
+506,Program,Balaji Prabhakar,2010,"Stanford University, USA",North America,Male,1994,United States
+507,Program,Niels Provos,2010,"Google, USA",North America,Male,2003,United States
+508,Program,Bhaskaran Raman,2010,"IIT Bombay, India",Asia,Male,2002,India
+509,Program,Ramachandran Ramjee,2010,"Microsoft Research, India",Asia,Male,1997,India
+510,Program,Jennifer Rexford,2010,"Princeton University, USA",North America,Female,1996,United States
+511,Program,Pablo Rodriguez,2010,"Telefonica Research, Spain",Europe,Male,2000,Spain
+512,Program,Matthew Roughan,2010,"University of Adelaide, Australia",Australia,Male,1994,Australia
+513,Program,Antony Rowstron,2010,"Microsoft Research Cambridge, UK",Europe,Male,1996,United Kingdom
+514,Program,Srinivasan Seshan,2010,"Carnegie Mellon University, USA",North America,Male,1995,United States
+515,Program,Aman Shaikh,2010,"AT&T Labs - Research, USA",North America,Male,2011,United States
+516,Program,Prashant Shenoy,2010,"Univ. of Massachusetts Amherst, USA",North America,Male,1998,United States
+517,Program,Emin Gn Sirer,2010,"Cornell University, USA",North America,Male,2002,United States
+518,Program,Neil Spring,2010,"University of Maryland, USA",North America,Male,2004,United States
+519,Program,Renata Teixeira,2010,"LIP6 / CNRS, France",Europe,Female,2005,France
+520,Program,Patrick Thiran,2010,"EPFL, Switzerland",Europe,Male,1996,Switzerland
+521,Program,Don Towsley,2010,"University of Massachusetts Amherst, USA",North America,Male,1975,United States
+522,Program,Jon Turner,2010,"Washington University, USA",North America,Male,1982,United States
+523,Program,Amin Vahdat,2010,"U.C. San Diego, USA",North America,Male,1998,United States
+524,Program,Anwar Walid,2010,"Bell Labs, USA",North America,Male,Phd,United States
+525,Program,Matt Welsh,2010,"Harvard University, USA",North America,Male,2002,United States
+526,Program,Walter Willinger,2010,"AT&T Labs - Research, USA",North America,Male,1987,United States
+527,Program,Yinglian Xie,2010,"Microsoft Research SVC, USA",North America,Female,2005,United States
+528,Program,Yin Zhang,2010,"University of Texas at Austin, USA",North America,Female,2020,United States
+529,Program,John Byers,2011,"Boston University, USA",North America,Male,1997,United States
+530,Program,Jeff Mogul,2011,"HP Labs, USA",North America,Male,1986,United States
+531,Program,Aditya Akella,2011,"University of Wisconsin, USA",North America,Male,2005,United States
+532,Program,Katerina Argyraki,2011,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+533,Program,Paul Barford,2011,"University of Wisconsin, USA",North America,Male,2000,United States
+534,Program,Augustin Chaintreau,2011,"Columbia University, USA",North America,Male,2006,United States
+535,Program,David Clark,2011,"MIT, USA",North America,Male,1973,United States
+536,Program,Jon Crowcroft,2011,"University of Cambridge, UK",Europe,Male,1993,United Kingdom
+537,Program,Constantinos Dovrolis,2011,"Georgia Tech, USA",North America,Male,2000,United States
+538,Program,Will Eatherton,2011,"Juniper Networks, USA",North America,Male,?,United States
+539,Program,Mike Freedman,2011,"Princeton University, USA",North America,Male,2007,United States
+540,Program,Yashar Ganjali,2011,"University of Toronto, Canada",North America,Male,2006,Canada
+541,Program,Sharon Goldberg,2011,"Boston University, USA",North America,Female,2009,United States
+542,Program,Matthias Grossglauser,2011,"EPFL, Switzerland",Europe,Male,1998,Switzerland
+543,Program,John Heidemann,2011,"USC/Information Sciences Institute, USA",North America,Male,1995,United States
+544,Program,Kyle Jamieson,2011,"University College London, UK",Europe,Male,2008,United Kingdom
+545,Program,Ramesh Johari,2011,"Stanford University, USA",North America,Male,2004,United States
+546,Program,Brad Karp,2011,"University College London, UK",Europe,Male,2000,United Kingdom
+547,Program,Sachin Katti,2011,"Stanford University, USA",North America,Male,2008,United States
+548,Program,Arvind Krishnamurthy,2011,"University of Washington, USA",North America,Male,1998,United States
+549,Program,Balachander Krishnamurthy,2011,AT&T Labs,North America,Male,None,United States
+550,Program,Nikolaos Laoutaris,2011,"Telefonica Research, Spain",Europe,Male,2004,Spain
+551,Program,Ratul Mahajan,2011,"Microsoft Research, USA",North America,Male,2005,United States
+552,Program,David Oran,2011,Unknown,North America,Male,?,United States
+553,Program,Jitendra Padhye,2011,"Microsoft Research, USA",North America,Male,2000,United States
+554,Program,Venkat Padmanabhan,2011,"Microsoft Research, India",Asia,Male,1998,India
+555,Program,Adrian Perrig,2011,"Carnegie Mellon University, USA",North America,Male,2001,United States
+556,Program,Lili Qiu,2011,"University of Texas at Austin, USA",North America,Female,2001,United States
+557,Program,Byrav Ramamurthy,2011,"University of Nebraska-Lincoln, USA",North America,Male,1998,United States
+558,Program,Danny Raz,2011,"Technion, Israel",Asia,Male,1996,Israel
+559,Program,Scott Rixner,2011,"Rice University, USA",North America,Male,2001,United States
+560,Program,Timothy Roscoe,2011,"ETH Zurich, Switzerland",Europe,Male,1995,Switzerland
+561,Program,Mema Roussopoulos,2011,"University of Athens, Greece",Europe,Female,2002,Greece
+562,Program,Stefan Savage,2011,"U.C. San Diego, USA",North America,Male,2001,United States
+563,Program,Srinivasan Seshan,2011,"Carnegie Mellon University, USA",North America,Male,1995,United States
+564,Program,Devavrat Shah,2011,"MIT, USA",North America,Male,2004,United States
+565,Program,Scott Shenker,2011,"U.C. Berkeley, USA",North America,Male,1983,United States
+566,Program,Emin Gün Sirer,2011,"Cornell University, USA",North America,Male,2002,United States
+567,Program,Vijay Sivaraman,2011,"University of New South Wales, Australia",Australia,Male,2000,United States
+568,Program,Kun Tan,2011,"Microsoft Research, China",Asia,Male,?,China
+569,Program,Amin Vahdat,2011,"Google / U.C. San Diego, USA",North America,Male,1998,United States
+570,Program,Helen Wang,2011,"Microsoft Research, USA",North America,Female,2001,United States
+571,Program,Gordon Wilfong,2011,"Bell Labs Research, USA",North America,Male,1984,United States
+572,Program,Walter Willinger,2011,"AT&T Labs - Research, USA",North America,Male,1987,United States
+573,Program,Alec Wolman,2011,"Microsoft Research, USA",North America,Male,2001,United States
+574,Program,Yinglian Xie,2011,"Microsoft Research, USA",North America,Female,2005,United States
+575,Program,Richard Yang,2011,"Yale University, USA",North America,Male,2001,United States
+576,Program,Haifeng Yu,2011,"National University of Singapore, Singapore",Asia,Male,2002,Singapore
+577,Program,Ellen Zegura,2011,"Georgia Tech, USA",North America,Female,1993,United States
+578,Program,Yin Zhang,2011,"University of Texas at Austin, USA",North America,Female,2020,United States
+579,Program,Yongguang Zhang,2011,"Microsoft Research, China",Asia,Male,1994,China
+580,Program,Heather Zheng,2011,"U.C. Santa Barbara, USA",North America,Female,1999,United States
+581,Program,Venkat Padmanabhan,2012,"Microsoft Research, India",Asia,Male,1998,India
+582,Program,George Varghese,2012,"UCSD, USA",North America,Male,1992,United States
+583,Program,Aditya Akella,2012,"University of Wisconsin, USA",North America,Male,2005,United States
+584,Program,Virgilio Almeida,2012,"UFMG, Brazil",South America,Male,1987,Brazil
+585,Program,Mostafa Ammar,2012,"Georgia Tech, USA",North America,Male,1985,United States
+586,Program,Sujata Banerjee,2012,"HP Labs, USA",North America,Female,1993,United States
+587,Program,Fabián E. Bustamante,2012,"Northwestern University, USA",North America,Male,2001,United States
+588,Program,Matthew Caesar 0001,2012,"University of Illinois, USA",North America,Male,2007,United States
+589,Program,Krishna Chintalapudi,2012,Microsoft Research India,Asia,Male,2006,India
+590,Program,Dah Ming Chiu,2012,Chinese University of Hong Kong,Asia,Male,1980,China
+591,Program,Romit Roy Choudhury,2012,"Duke University, USA",North America,Male,2006,United States
+592,Program,Mark Crovella,2012,"Boston University, USA",North America,Male,1994,United States
+593,Program,Jon Crowcroft,2012,"Cambridge University, UK",Europe,Male,1993,United Kingdom
+594,Program,Bruce Davie,2012,"Nicira Networks, USA",North America,Male,1988,United States
+595,Program,Jeff Dean,2012,"Google, USA",North America,Male,1996,United States
+596,Program,Kevin Fall,2012,"Qualcomm, USA",North America,Male,1994,United States
+597,Program,Nick Feamster,2012,"University of Maryland, USA",North America,Male,2005,United States
+598,Program,Sergey Gorinsky,2012,"Institute IMDEA Networks, Spain",Europe,Male,2003,Spain
+599,Program,Krishna Gummadi,2012,"MPI-SWS, Germany",Europe,Male,2005,Germany
+600,Program,Kyle Jamieson,2012,"University College London, UK",Europe,Male,2008,United Kingdom
+601,Program,Brad Karp,2012,"University College London, UK",Europe,Male,2000,United Kingdom
+602,Program,Dina Katabi,2012,"MIT, USA",North America,Female,2003,United States
+603,Program,Sachin Katti,2012,"Stanford University, USA",North America,Male,2008,United States
+604,Program,Ramana Kompella,2012,"Purdue University, USA",North America,Male,2007,United States
+605,Program,Arvind Krishnamurthy,2012,"University of Washington, USA",North America,Male,1998,United States
+606,Program,Craig Labovitz,2012,"DeepField Networks, USA",North America,Male,1999,United States
+607,Program,T. V. Lakshman,2012,"Bell Labs, Alcatel-Lucent, USA",North America,Male,1986,United States
+608,Program,Kirill Levchenko,2012,"UC San Diego, USA",North America,Male,2008,United States
+609,Program,Dave Levin,2012,"HP Labs, USA",North America,Male,2010,United States
+610,Program,Bruce Maggs,2012,"Duke University and Akamai Technologies, USA",North America,Male,1989,United States
+611,Program,Ratul Mahajan,2012,"Microsoft Research Redmond, USA",North America,Male,2005,United States
+612,Program,David Maltz,2012,"Microsoft, USA",North America,Male,2001,United States
+613,Program,Z. Morley Mao,2012,"University of Michigan, USA",North America,Female,2003,United States
+614,Program,Nick McKeown,2012,"Stanford University, USA",North America,Male,2017,United States
+615,Program,Michael Mitzenmacher,2012,"Harvard University, USA",North America,Male,1996,United States
+616,Program,Craig Partridge,2012,"Raytheon BBN Technologies, USA",North America,Male,1992,United States
+617,Program,Lili Qiu,2012,"UT Austin, USA",North America,Female,2001,United States
+618,Program,K. K. Ramakrishnan,2012,"AT&T Labs Research, USA",North America,Male,1983,United States
+619,Program,Bhaskaran Raman,2012,"IIT Bombay, India",Asia,Male,2002,India
+620,Program,Pablo Rodriguez,2012,"Telefonica Research, Spain",Europe,Male,2000,Spain
+621,Program,Antony Rowstron,2012,"Microsoft Research Cambridge, UK",Europe,Male,1996,United Kingdom
+622,Program,Srinivasan Seshan,2012,"Carnegie Mellon University, USA",North America,Male,1995,United States
+623,Program,Hovav Shacham,2012,"UC San Diego, USA",North America,Male,2005,United States
+624,Program,Emin Gün Sirer,2012,"Cornell University, USA",North America,Male,2002,United States
+625,Program,Ion Stoica,2012,"UC Berkeley, USA",North America,Male,2000,United States
+626,Program,Lakshminarayanan Subramanian,2012,"New York University, USA",North America,Male,2005,United States
+627,Program,Renata Teixeira,2012,"CNRS and UMPC Sorbonne Universities, France",Europe,Female,2005,France
+628,Program,Jon Turner,2012,"Washington University, USA",North America,Male,1982,United States
+629,Program,Kobus Van der Merwe,2012,"AT&T Labs - Research, USA",North America,Male,1998,United States
+630,Program,David Wetherall,2012,"University of Washington, USA",North America,Male,1998,United States
+631,Program,Haifeng Yu,2012,National University of Singapore,Asia,Male,2002,Singapore
+632,Program,Paul Barford,2013,"University of Wisconsin, USA",North America,Male,2000,United States
+633,Program,Srinivasan Seshan,2013,"Carnegie Mellon University, USA",North America,Male,1995,United States
+634,Program,Aditya Akella,2013,"University of Wisconsin, USA",North America,Male,2005,United States
+635,Program,Katerina Argyraki,2013,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+636,Program,Ranjita Bhagwan,2013,"Microsoft Research, India",Asia,Female,2004,India
+637,Program,Elizabeth Belding,2013,"University of California-Santa Barbara, USA",North America,Female,2000,United States
+638,Program,John Byers,2013,"Boston University, USA",North America,Male,1997,United States
+639,Program,Matthew Caesar 0001,2013,"University of Illinois, USA",North America,Male,2007,United States
+640,Program,Jon Crowcroft,2013,"University of Cambridge, UK",Europe,Male,1993,United Kingdom
+641,Program,Sonia Fahmy,2013,"Purdue University, USA",North America,Female,1999,United States
+642,Program,Nick Feamster,2013,"Georgia Institute of Technology, USA",North America,Male,2005,United States
+643,Program,Lixin Gao,2013,"University of Massachusetts, USA",North America,Female,1997,United States
+644,Program,Shyamnath Gollakota,2013,"University of Washington, USA",North America,Male,2013,United States
+645,Program,Timothy G. Griffin,2013,"University of Cambridge, UK",Europe,Male,1988,United Kingdom
+646,Program,John Heidemann,2013,"USC/Information Sciences Institute, USA",North America,Male,1995,United States
+647,Program,Brad Karp,2013,"University College London, UK",Europe,Male,2000,United Kingdom
+648,Program,Sachin Katti,2013,"Stanford University, USA",North America,Male,2008,United States
+649,Program,Arvind Krishnamurthy,2013,"University of Washington, USA",North America,Male,1998,United States
+650,Program,Craig Labovitz,2013,"Arbor Networks, USA",North America,Male,1999,United States
+651,Program,Nikolaos Laoutaris,2013,"Telefonica Research, Spain",Europe,Male,2004,Spain
+652,Program,Dave Levin,2013,"University of Maryland, USA",North America,Male,2010,United States
+653,Program,John C.S. Lui,2013,"The Chinese University of Hong Kong, China",Asia,Male,1993,China
+654,Program,Olaf Maennel,2013,"Loughborough University, UK",Europe,Male,2005,United Kingdom
+655,Program,Laurent Mathy,2013,"Lancaster University, UK",Europe,Male,2000,United Kingdom
+656,Program,David Oran,2013,Unknown,North America,Male,?,United States
+657,Program,Jitu Padhye,2013,"Microsoft Research, USA",North America,Male,2000,United States
+658,Program,Venkat Padmanabhan,2013,"Microsoft Research, India",Asia,Male,1998,India
+659,Program,Vyas Sekar,2013,"Stony Brook University, USA",North America,Male,2010,United States
+660,Program,Georgios Smaragdakis,2013,"Deutsche Telekom Labs/TU Berlin, Germany",Europe,Male,2009,Germany
+661,Program,Peter Steenkiste,2013,"Carnegie Mellon University, USA",North America,Male,1987,United States
+662,Program,Ion Stoica,2013,"University of California-Berkely, USA",North America,Male,2000,United States
+663,Program,Nina Taft,2013,"Technicolor Palo Alto, USA",North America,Female,1994,United States
+664,Program,Kun Tan,2013,"Microsoft Research, China",Asia,Male,?,China
+665,Program,Amin Vahdat,2013,"Google/UC San Diego, USA",North America,Male,1998,United States
+666,Program,Walter Willinger,2013,"AT&T Labs Research, USA",North America,Male,1987,United States
+667,Program,Arvind Krishnamurthy,2014,"University of Washington, USA",North America,Male,1998,United States
+668,Program,Sylvia Ratnasamy,2014,"UC Berkeley, USA",North America,Female,2002,United States
+669,Program,Aditya Akella,2014,"University of Wisconsin, USA",North America,Male,2005,United States
+670,Program,Katerina Argyraki,2014,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+671,Program,Guido Appenzeller,2014,"Big Switch Networks, USA",North America,Male,2004,United States
+672,Program,Hitesh Ballani,2014,"Microsoft Research, UK",Europe,Male,2009,United Kingdom
+673,Program,Paul Barford,2014,"University of Wisconsin, USA",North America,Male,2000,United States
+674,Program,Matthew Caesar 0001,2014,"University of Illinois, USA",North America,Male,2007,United States
+675,Program,Augustin Chaintreau,2014,"Columbia University, USA",North America,Male,2006,United States
+676,Program,Bruce Davie,2014,"VMware, USA",North America,Male,1988,United States
+677,Program,Christophe Diot,2014,"Technicolor, France",Europe,Male,1991,France
+678,Program,Nandita Dukkipati,2014,"Google, USA",North America,Female,2007,United States
+679,Program,Rodrigo Fonseca,2014,"Brown University, USA",North America,Male,2015,United States
+680,Program,Nate Foster,2014,"Cornell University, USA",North America,Male,2009,United States
+681,Program,Ali Ghodsi,2014,"UC Berkeley, USA",North America,Male,2006,United States
+682,Program,Paul Francis,2014,"Max Planck Institute, Germany",Europe,Male,1994,Germany
+683,Program,Sharon Goldberg,2014,"Boston University, USA",North America,Female,2009,United States
+684,Program,Brighten Godfrey,2014,"University of Illinois, USA",North America,Male,2009,United States
+685,Program,Shyam Gollakota,2014,"University of Washington, USA",North America,Male,2013,United States
+686,Program,Saikat Guha,2014,"Microsoft Research, India",Asia,Male,2009,India
+687,Program,Krishna Gummadi,2014,"Max Planck Institute, Germany",Europe,Male,2005,Germany
+688,Program,Chuanxiong Guo,2014,"Microsoft Research, Asia",Asia,Male,Phd,China
+689,Program,Polly Huang,2014,"National Taiwan University, Taiwan",Asia,Female,1999,China
+690,Program,Kyle Jamieson,2014,"University College London, UK",Europe,Male,2008,United Kingdom
+691,Program,Brad Karp,2014,"University College London, UK",Europe,Male,2000,United Kingdom
+692,Program,Ethan Katz-Bassett,2014,"University of Southern California, USA",North America,Male,2012,United States
+693,Program,Teemu Koponen,2014,"VMware, USA",North America,Male,2004,United States
+694,Program,Harsha Madhyastha,2014,"UC Riverside, USA",North America,Male,2008,United States
+695,Program,Ratul Mahajan,2014,"Microsoft Research, USA",North America,Male,2005,United States
+696,Program,Nick McKeown,2014,"Stanford University, USA",North America,Male,2017,United States
+697,Program,Michael Mitzenmacher,2014,"Harvard University, USA",North America,Male,1996,United States
+698,Program,Andrew Moore,2014,"University of Cambridge, UK",Europe,Male,2001,United Kingdom
+699,Program,Robert Morris,2014,"Massachusetts Institute of Technology, USA",North America,Male,1999,United States
+700,Program,Jitendra Padhye,2014,"Microsoft Research, USA",North America,Male,2000,United States
+701,Program,Vivek Pai,2014,"Princeton University, USA",North America,Male,2000,United States
+702,Program,Dina Papagiannaki,2014,"Telefonica, Spain",Europe,Female,2003,Spain
+703,Program,KyoungSoo Park,2014,"KAIST, Korea",Asia,Male,2007,"Korea, Republic of"
+704,Program,Adrian Perrig,2014,"ETH Zurich, Switzerland",Europe,Male,2001,Switzerland
+705,Program,Larry Peterson,2014,Princeton University and ON.LAB,North America,Male,1985,United States
+706,Program,Srinivasan Seshan,2014,"Carnegie Mellon University, USA",North America,Male,1995,United States
+707,Program,Vyas Sekar,2014,"Carnegie Mellon University, USA",North America,Male,2010,United States
+708,Program,Scott Shenker,2014,"UC Berkeley and ICSI, USA",North America,Male,1983,United States
+709,Program,Alex Snoeren,2014,"UC San Diego, USA",North America,Male,2002,United States
+710,Program,Neil Spring,2014,"University of Maryland, USA",North America,Male,2004,United States
+711,Program,Kun Tan,2014,"Microsoft Research, Asia",North America,Male,?,China
+712,Program,Renata Teixeira,2014,"University Pierre et Marie Curie, France",Europe,Female,2005,France
+713,Program,Amin Vahdat,2014,"Google and UC San Diego, USA",North America,Male,1998,United States
+714,Program,Walter Willinger,2014,"Niksun, USA",North America,Male,1987,United States
+715,Program,John Wrocklawski,2014,"ISI, USA",North America,Male,None,United States
+716,Program,Richard Yang,2014,"Yale University, USA",North America,Male,2001,United States
+717,Program,Xiaowei Yang,2014,"Duke University, USA",North America,Female,2004,United States
+718,Program,Minlan Yu,2014,"University of Southern California, USA",North America,Female,2011,United States
+719,Program,Ellen Zegura,2014,"Georgia Tech, USA",North America,Female,1993,United States
+720,Program,Yin Zhang,2014,"University of Texas, Austin, USA",North America,Female,2020,United States
+721,Program,Brad Karp,2015,"University College London, UK",Europe,Male,2000,United Kingdom
+722,Program,Jitendra Padhye,2015,"Microsoft Research, USA",North America,Male,2000,United States
+723,Program,Aditya Akella,2015,"University of Wisconsin, USA",North America,Male,2005,United States
+724,Program,Mohammad Alizadeh,2015,"MIT and Cisco, USA",North America,Male,2013,United States
+725,Program,Katerina Argyraki,2015,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+726,Program,Aruna Balasubramanian,2015,"Stony Brook University, USA",North America,Female,2011,United States
+727,Program,Hitesh Ballani,2015,"Microsoft Research, UK",Europe,Male,2009,United Kingdom
+728,Program,Sujata Banerjee,2015,"HP Labs, USA",North America,Female,1993,United States
+729,Program,Keren Bergman,2015,"Columbia University, USA",North America,Female,1994,United States
+730,Program,John Byers,2015,"Boston University, USA",North America,Male,1997,United States
+731,Program,Jeff Chase,2015,"Duke University, USA",North America,Male,1995,United States
+732,Program,Mung Chiang,2015,"Princeton University, USA",North America,Male,2003,United States
+733,Program,Jon Crowcroft,2015,"University of Cambridge, UK",Europe,Male,1993,United Kingdom
+734,Program,Bruce Davie,2015,"VMware, USA",North America,Male,1988,United States
+735,Program,Nandita Dukkipati,2015,"Google, USA",North America,Female,2007,United States
+736,Program,Anja Feldmann,2015,"Technische Univ. Berlin, Germany",Europe,Female,1995,Germany
+737,Program,Bryan Ford,2015,"Yale University, USA",North America,Male,2008,United States
+738,Program,Nate Foster,2015,"Cornell University, USA",North America,Male,2009,United States
+739,Program,Lixin Gao,2015,"Univ. of Massachusetts Amherst, USA",North America,Female,1997,United States
+740,Program,Brighten Godfrey,2015,"University of Illinois, USA",North America,Male,2009,United States
+741,Program,Sharon Goldberg,2015,"Boston University, USA",North America,Female,2009,United States
+742,Program,Kyle Jamieson,2015,"University College London, UK",Europe,Male,2008,United Kingdom
+743,Program,Srikanth Kandula,2015,"Microsoft Research, USA",North America,Male,2008,United States
+744,Program,Dina Katabi,2015,"MIT, USA",North America,Female,2003,United States
+745,Program,Sachin Katti,2015,"Stanford University, USA",North America,Male,2008,United States
+746,Program,Ethan Katz-Bassett,2015,"University of Southern California, USA",North America,Male,2012,United States
+747,Program,Teemu Koponen,2015,"VMware, USA",North America,Male,2004,United States
+748,Program,John C.S.Lui,2015,"Chinese Univ. of Hong Kong, Hong Kong",Asia,Male,1993,China
+749,Program,Z. Morley Mao,2015,"Univ. of Michigan, USA",North America,Female,2003,United States
+750,Program,Dave Oran,2015,"Cisco, USA",North America,Male,1993,United States
+751,Program,George Papen,2015,"UC San Diego ECE, USA",North America,Male,2008,United States
+752,Program,KyoungSoo Park,2015,"KAIST, Korea",Asia,Male,2007,"Korea, Republic of"
+753,Program,George Porter,2015,"UC San Diego CSE, USA",North America,Male,2008,United States
+754,Program,Luigi Rizzo,2015,"Università di Pisa, Italy, USA",North America,Male,1998,United States
+755,Program,Ashutosh Sabharwal,2015,"Rice University, USA",North America,Male,1999,United States
+756,Program,Stefan Savage,2015,"UC San Diego CSE, USA",North America,Male,2001,United States
+757,Program,Michael Schapira,2015,"Hebrew University, Israel",Asia,Male,2008,Israel
+758,Program,Vyas Sekar,2015,"Carnegie Mellon University, USA",North America,Male,2010,United States
+759,Program,Kun Tan,2015,"Microsoft Research, Asia",North America,Male,?,China
+760,Program,Pramod Viswanath,2015,"UIUC, USA",North America,Male,1999,United States
+761,Program,Geoff Voelker,2015,"UC San Diego CSE, USA",North America,Male,2000,United States
+762,Program,Michael Walfish,2015,"NYU, USA",North America,Male,2008,United States
+763,Program,Jia Wang,2015,"AT&T Research, USA",North America,Female,2000,United States
+764,Program,Philip Watts,2015,"University College London, UK",Europe,Male,2004,United Kingdom
+765,Program,David Wetherall,2015,"Google and Univ. of Washington, USA",North America,Male,1998,United States
+766,Program,Walter Willinger,2015,"Niksun, USA",North America,Male,1987,United States
+767,Program,Keith Winstein,2015,"Stanford University, USA",North America,Male,2014,United States
+768,Program,Xiaowei Yang,2015,"Duke University, USA",North America,Female,2004,United States
+769,Program,Minlan Yu,2015,"University of Southern California, USA",North America,Female,2011,United States
+770,Program,Ming Zhang,2015,"Microsoft Research, USA",North America,Male,2005,United States
+771,Program,Lin Zhong,2015,"Rice University, USA",North America,Male,2005,United States
+772,Program,Amin Vahdat,2016,"UCSD and Google, USA",North America,Male,1998,United States
+773,Program,Sachin Katti,2016,"Stanford University, USA",North America,Male,2008,United States
+774,Program,Aditya Akella,2016,"University of Wisconsin Madison, USA",North America,Male,2005,United States
+775,Program,Mohammad Alizadeh,2016,"MIT, USA",North America,Male,2013,United States
+776,Program,Katerina Argyraki,2016,"EPFL, Switzerland",Europe,Female,2007,Switzerland
+777,Program,Hari Balakrishnan,2016,"MIT, USA",North America,Male,1998,United States
+778,Program,Hitesh Ballani,2016,"Microsoft, UK",Europe,Male,2009,United Kingdom
+779,Program,Sujata Banerjee,2016,"HP Labs, USA",North America,Female,1993,United States
+780,Program,Suman Banerjee,2016,"University of Wisconsin Madison, USA",North America,Male,2003,United States
+781,Program,Theo Benson,2016,"Duke University, USA",North America,Male,2012,United States
+782,Program,Ranjita Bhagwan,2016,"Microsoft, India",Asia,Female,2004,India
+783,Program,Fabián Bustamante,2016,"Northwestern University, USA",North America,Male,2001,United States
+784,Program,Nandita Dukkipati,2016,"Google, USA",North America,Female,2007,United States
+785,Program,Nick Feamster,2016,"Princeton University, USA",North America,Male,2005,United States
+786,Program,Nate Foster,2016,"Cornell University, USA",North America,Male,2009,United States
+787,Program,Deepak Ganesan,2016,"University of Massachusetts Amherst, USA",North America,Male,2004,United States
+788,Program,Yashar Ganjali,2016,"University of Toronto, Canada",North America,Male,2006,Canada
+789,Program,Phillipa Gill,2016,"Stony Broook University, USA",North America,Female,2012,United States
+790,Program,Sergey Gorisnky,2016,"IMDEA Networks Institute, Spain",Europe,Male,2003,Spain
+791,Program,Ramesh Govindan,2016,"University of Southern California, USA",North America,Male,1992,United States
+792,Program,Mark Handley,2016,"University College London, UK",Europe,Male,1997,United Kingdom
+793,Program,Srikanth Kandula,2016,"Microsoft, USA",North America,Male,2008,United States
+794,Program,Brad Karp,2016,"University College London, UK",Europe,Male,2000,United Kingdom
+795,Program,Ethan Katz-Bassett,2016,"University of Southern California, USA",North America,Male,2012,United States
+796,Program,Teemu Koponen,2016,"VMWare, USA",North America,Male,2004,United States
+797,Program,Swarun Kumar,2016,"Carnegie Mellon University, USA",North America,Male,2015,United States
+798,Program,Alex Liu,2016,"Michigan State University, USA",North America,Male,2006,United States
+799,Program,Harsha Madhyastha,2016,"University of Michigan, USA",North America,Male,2008,United States
+800,Program,Bruce Maggs,2016,"Duke University, USA",North America,Male,1989,United States
+801,Program,Ratul Mahajan,2016,"Microsoft, USA",North America,Male,2005,United States
+802,Program,Vishal Misra,2016,"Columbia University, USA",North America,Male,2000,United States
+803,Program,Michael Mitzenmacher,2016,"Harvard University, USA",North America,Male,1996,United States
+804,Program,Jeff Mogul,2016,"Google, USA",North America,Male,1986,United States
+805,Program,Andrew Moore,2016,"University of Cambridge, UK",Europe,Male,2001,United Kingdom
+806,Program,Radhika Niranjan Mysore,2016,"Google, USA",North America,Female,2013,United States
+807,Program,Dave Oran,2016,"Cisco, USA",North America,Male,1993,United States
+808,Program,Venkat Padmanabhan,2016,"Microsoft, India",Asia,Male,1998,India
+809,Program,George Papen,2016,"UC San Diego, USA",North America,Male,2008,United States
+810,Program,KyoungSoo Park,2016,"KAIST, Korea",Asia,Male,2007,"Korea, Republic of"
+811,Program,Adrian Perrig,2016,"ETH Zurich, Switzerland",Europe,Male,2001,Switzerland
+812,Program,Sylvia Ratnasamy,2016,"UC Berkeley, USA",North America,Female,2002,United States
+813,Program,Vyas Sekar,2016,"Carnegie Mellon University, USA",North America,Male,2010,United States
+814,Program,Scott Shenker,2016,"UC Berkeley, USA",North America,Male,1983,United States
+815,Program,Ankit Singla,2016,"ETH Zurich, Switzerland",Europe,Male,2015,Switzerland
+816,Program,Joshua Smith,2016,"University of Washington, USA",North America,Male,2005,United States
+817,Program,Alex Snoeren,2016,"UC San Diego, USA",North America,Male,2002,United States
+818,Program,Ion Stoica,2016,"UC Berkeley, USA",North America,Male,2000,United States
+819,Program,Pramod Vishwanath,2016,"University of Illinois Urbana-Champaign , USA",North America,Male,1999,United States
+820,Program,Geoff Voelker,2016,"UC San Diego, USA",North America,Male,2000,United States
+821,Program,Philip Watts,2016,"University College London, UK",Europe,Male,2004,United Kingdom
+822,Program,David Wetherall,2016,"Google & University of Washington, USA",North America,Male,1998,United States
+823,Program,Keith Winstein,2016,"Stanford University, USA",North America,Male,2014,United States
+824,Program,Minlan Yu,2016,"University of Southern California, USA",North America,Female,2011,United States
+825,Program,Matei Zaharia,2016,"MIT, USA",North America,Male,2013,United States
+826,Program,Ellen Zegura,2016,"Georgia Tech, USA",North America,Female,1993,United States
+827,Program,Ming Zhang,2016,"Alibaba Group, USA",North America,Male,2005,United States
+828,Program,Alex C. Snoeren,2017,UC San Diego,North America,Male,2002,United States
+829,Program,Walter Willinger,2017,"NIKSUN, Inc.",North America,Male,1987,United States
+830,Program,Mohammad Alizadeh,2017,MIT,North America,Male,2013,United States
+831,Program,Sujata Banerjee,2017,VMware,North America,Female,1993,United States
+832,Program,Suman Banerjee,2017,University of Wisconsin - Madison,North America,Male,2003,United States
+833,Program,Theo Benson,2017,Duke University,North America,Male,2012,United States
+834,Program,John W. Byers,2017,Boston University,North America,Male,1997,United States
+835,Program,Marco Canini,2017,KAUST,Asia,Male,2009,Saudi Arabia
+836,Program,Ranveer Chandra,2017,Microsoft Research,North America,Male,2005,United States
+837,Program,David Choffnes,2017,Northeastern University,North America,Male,2010,United States
+838,Program,Mosharaf Chowdhury,2017,University of Michigan,North America,Male,2015,United States
+839,Program,Mark Crovella,2017,Boston University,North America,Male,1994,United States
+840,Program,Rubaon Cuevas,2017,Universidad Carlos III de Madrid,Europe,Male,2010,Spain
+841,Program,Italo Cunha,2017,UFMG,South America,Male,2011,Brazil
+842,Program,Xenofontas Dimitropoulos,2017,University of Crete & FORTH,Europe,Male,2006,Greece
+843,Program,Nandita Dukkipati,2017,Google,North America,Female,2007,United States
+844,Program,Nate Foster,2017,Cornell University,North America,Male,2009,United States
+845,Program,Monia Ghobadi,2017,Microsoft Research,North America,Female,2013,United States
+846,Program,Phillipa Gill,2017,University of Massachusetts - Amherst,North America,Female,2012,United States
+847,Program,Sharon Goldberg,2017,Boston University,North America,Female,2009,United States
+848,Program,Shyam Gollakota,2017,University of Washington,North America,Male,2013,United States
+849,Program,Arjun Guha,2017,University of Massachusetts - Amherst,North America,Male,2013,United States
+850,Program,Andreas Haeberlen,2017,University of Pennsylvania,North America,Male,2009,United States
+851,Program,Haitham Hassanieh,2017,UIUC,North America,Male,2019,United States
+852,Program,Changhoon Kim,2017,Barefoot Networks,North America,Male,2009,United States
+853,Program,Teemu Koponen,2017,Styra,North America,Male,2004,United States
+854,Program,Arvind Krishnamurthy,2017,University of Washington,North America,Male,1998,United States
+855,Program,Nikolaos Laoutaris,2017,Telefonica,Europe,Male,2004,Spain
+856,Program,Olaf Maennel,2017,Tallinn University of Technology,Australia,Male,2005,Estonia
+857,Program,Ratul Mahajan,2017,Microsoft Research,North America,Male,2005,United States
+858,Program,Z. Morley Mao,2017,University of Michigan,North America,Female,2003,United States
+859,Program,Michael Mitzenmacher,2017,Harvard University,North America,Male,1996,United States
+860,Program,Venkat Padmanabhan,2017,Microsoft Research India,Asia,Male,1998,India
+861,Program,Dina Papagiannaki,2017,Google,North America,Female,2003,United States
+862,Program,George Papen,2017,UC San Diego,North America,Male,2008,United States
+863,Program,Barath Raghavan,2017,ICSI,North America,Male,2009,United States
+864,Program,Bhaskaran Raman,2017,IIT Bombay,Asia,Male,2002,India
+865,Program,Pablo Rodriguez,2017,Telefonica,Europe,Male,2000,Spain
+866,Program,Michael Schapira,2017,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+867,Program,Vyas Sekar,2017,Carnegie Mellon University,North America,Male,2010,United States
+868,Program,Justine Sherry,2017,Carnegie Mellon University,North America,Male,2016,United States
+869,Program,Ankit Singla,2017,ETH ZÃ¼rich,Europe,Male,2015,Switzerland
+870,Program,Kun Tan,2017,Huawei,North America,Male,?,China
+871,Program,Renata Teixeira,2017,Inria,Europe,Female,2005,France
+872,Program,Amin Vahdat,2017,Google,North America,Male,1998,United States
+873,Program,Laurent Vanbever,2017,ETH ZÃ¼rich,Europe,Male,2012,Switzerland
+874,Program,George Varghese,2017,UCLA,North America,Male,1992,United States
+875,Program,Keith Winstein,2017,Stanford University,North America,Male,2014,United States
+876,Program,Haifeng Yu,2017,National University of Singapore,Asia,Male,2002,Singapore
+877,Program,Minlan Yu,2017,Yale University,North America,Female,2011,United States
+878,Program,James Hongyi Zeng,2017,Facebook,North America,Male,2014,United States
+879,Program,Ming Zhang,2017,Alibaba Group,North America,Male,2005,China
+880,Program,Mark Handley,2018,"UCL, UK",Europe,Male,1997,United Kingdom
+881,Program,Dina Katabi,2018,"MIT, USA",North America,Female,2003,United States
+882,Program,Fadel Adib,2018,"MIT, USA",North America,Male,2016,United States
+883,Program,Aditya Akella,2018,"Wisconsin, USA",North America,Male,2005,United States
+884,Program,Mohammad Alizadeh,2018,"MIT, USA",North America,Male,2013,United States
+885,Program,David Andersen,2018,"CMU, USA",North America,Male,2004,United States
+886,Program,Hitesh Ballani,2018,"Microsoft, UK",Europe,Male,2009,United Kingdom
+887,Program,Sujata Banerjee,2018,"VMware, USA",North America,Female,1993,United States
+888,Program,Theo Benson,2018,"Brown, USA",North America,Male,2012,United States
+889,Program,Olivier Bonaventure,2018,"UCL, Belgium",Europe,Male,1999,Belgium
+890,Program,Marco Canini,2018,"KAUST, KSA",Asia,Male,2009,Saudi Arabia
+891,Program,Martin Casado,2018,"A16Z, USA",North America,Male,2007,United States
+892,Program,Ranveer Chandra,2018,"Microsoft, USA",North America,Male,2005,United States
+893,Program,Romit Roy Choudhury,2018,"UIUC, USA",North America,Male,2006,United States
+894,Program,Mosharaf Chowdhury,2018,"UMich, USA",North America,Male,2015,United States
+895,Program,Nandita Dukkipati,2018,"Google, USA",North America,Female,2007,United States
+896,Program,Nate Foster,2018,"Cornell, USA",North America,Male,2009,United States
+897,Program,Deepak Ganesan,2018,"UMass, USA",North America,Male,2004,United States
+898,Program,Brighten Godfrey,2018,"UIUC, USA",North America,Male,2009,United States
+899,Program,Marco Gruteser,2018,"Rutgers, USA",North America,Male,2004,United States
+900,Program,Haitham Hassanieh,2018,"UIUC, USA",North America,Male,2019,United States
+901,Program,Kyle Jamieson,2018,"Princeton, USA",North America,Male,2008,United States
+902,Program,Srikanth Kandula,2018,"Microsoft, USA",North America,Male,2008,United States
+903,Program,Sachin Katti,2018,"Stanford, USA",North America,Male,2008,United States
+904,Program,Changhoon Kim,2018,"Barefoot, USA",North America,Male,2009,United States
+905,Program,Eddie Kohler,2018,"Harvard, USA",North America,Male,2001,United States
+906,Program,Arvind Krishnamurthy,2018,"UW, USA",North America,Male,1998,United States
+907,Program,Kate Lin,2018,"NCTU, Taiwan",Asia,Female,2009,China
+908,Program,Ratul Mahajan,2018,"Intentionet, USA",North America,Male,2005,United States
+909,Program,James Mickens,2018,"Harvard, USA",North America,Male,2008,United States
+910,Program,Dave Oran,2018,"Cisco, USA",North America,Male,1993,United States
+911,Program,Dina Papagiannaki,2018,"Google, USA",North America,Female,2003,United States
+912,Program,KyoungSoo Park,2018,"KAIST, South Korea",Asia,Male,2007,"Korea, Republic of"
+913,Program,Adrian Perrig,2018,"ETH, Switzerland",Europe,Male,2001,Switzerland
+914,Program,Lili Qiu,2018,"UT, USA",North America,Female,2001,United States
+915,Program,Costin Raiciu,2018,"UPB, Romania",Europe,Male,2011,Romania
+916,Program,Michael Schapira,2018,"HUJI, Israel",Asia,Male,2008,Israel
+917,Program,Aaron Schulman,2018,"UCSD, USA",North America,Male,2013,United States
+918,Program,Srinivasan Seshan,2018,"CMU, USA",North America,Male,1995,United States
+919,Program,Justine Sherry,2018,"CMU, USA",North America,Male,2016,United States
+920,Program,Ion Stoica,2018,"Berkeley, USA",North America,Male,2000,United States
+921,Program,Renata Teixeira,2018,"Inria, France",Europe,Female,2005,France
+922,Program,Amin Vahdat,2018,"Google, USA",North America,Male,1998,United States
+923,Program,Laurent Vanbever,2018,"ETH, Switzerland",Europe,Male,2012,Switzerland
+924,Program,Stefano Vissicchio,2018,"UCL, UK",Europe,Male,2012,United Kingdom
+925,Program,Walter Willinger,2018,"NIKSUN, USA",North America,Male,1987,United States
+926,Program,Keith Winstein,2018,"Stanford, USA",North America,Male,2014,United States
+927,Program,Hongyi Zeng,2018,"Facebook, USA",North America,Male,2014,United States
+928,Program,Ming Zhang,2018,"Alibaba, China",Asia,Male,2005,China
+929,Program,Yibo Zhu,2018,"Microsoft, USA",North America,Male,2016,United States
+930,Program,Katerina Argyraki,2019,EPFL,Europe,Female,2007,Switzerland
+931,Program,John Heidemann,2019,USC/ISI,North America,Male,1995,United States
+932,Program,Omid Abari,2019,Waterloo,North America,Male,2018,Canada
+933,Program,Fadel Adib,2019,MIT,North America,Male,2016,United States
+934,Program,Aditya Akella,2019,UWM,North America,Male,2005,United States
+935,Program,Mark Allman,2019,ICSI,North America,Male,1997,United States
+936,Program,Aruna Balasubramanian,2019,Stony Brook,North America,Female,2011,United States
+937,Program,Hitesh Ballani,2019,Microsoft Research,Europe,Male,2009,United Kingdom
+938,Program,Paul Barford,2019,UWisc,North America,Male,2000,United States
+939,Program,Theophilus Benson,2019,Brown University,North America,Male,2012,United States
+940,Program,Nathan Bronson,2019,Facebook,North America,Male,2011,United States
+941,Program,Marco Canini,2019,KAUST,Asia,Male,2009,Saudi Arabia
+942,Program,Kai Chen,2019,HKUST,Asia,Male,2012,China
+943,Program,Kenjiro Cho,2019,IIJ,Asia,Male,2001,Japan
+944,Program,Mosharaf Chowdhury,2019,UMich,North America,Male,2015,United States
+945,Program,Nandita Dukkipati,2019,Google,North America,Female,2007,United States
+946,Program,Lars Eggert,2019,NetApp,Europe,Male,2003,Germany
+947,Program,Kensuke Fukuda,2019,NII,Asia,Male,1999,Japan
+948,Program,Manya Ghobadi,2019,MIT,North America,Female,2013,United States
+949,Program,Phillipa Gill,2019,UMass Amherst,North America,Female,2012,United States
+950,Program,Krishna Gummadi,2019,MPI-SWS,Europe,Male,2005,Germany
+951,Program,Dongsu Han,2019,KAIST,Asia,Male,2012,"Korea, Republic of"
+952,Program,Polly Huang,2019,NTU,Asia,Female,1999,China
+953,Program,Te-yuan Huang,2019,Netflix,North America,Female,2014,United States
+954,Program,Kyle Jamieson,2019,Princeton,North America,Male,2008,United States
+955,Program,Keon Jang,2019,MPI-SWS/Google,Europe,Male,2012,Germany
+956,Program,Mobin Javed,2019,LUMS,Asia,Female,2022,Pakistan
+957,Program,Sanjay Jha,2019,U. New South Wales,North America,Male,1996,United States
+958,Program,Junchen Jiang,2019,U. Chicago,North America,Male,2017,United States
+959,Program,Srikanth Kandula,2019,Microsoft Research,North America,Male,2008,United States
+960,Program,Thomas Karagiannis,2019,Microsoft Research,Europe,Male,2006,United Kingdom
+961,Program,Brad Karp,2019,University College London,Europe,Male,2000,United Kingdom
+962,Program,Ethan Katz-Bassett,2019,Columbia,North America,Male,2012,United States
+963,Program,Ali Khayam,2019,Amazon,North America,Male,2006,United States
+964,Program,Dejan Kostic,2019,KTH Royal Institute of Technology,Europe,Male,2005,Sweden
+965,Program,Nikos Laoutaris,2019,IMDEA Networks Institute,Europe,Male,2004,Spain
+966,Program,Simon Leinen,2019,SWITCH,Europe,Male,None,Switzerland
+967,Program,Dan Li,2019,Tsinghua,Asia,Male,2007,China
+968,Program,Chieh-Jan Mike Liang,2019,Microsoft Research,Asia,Male,2008,China
+969,Program,Bruce Maggs,2019,Duke/Akamai,North America,Male,1989,United States
+970,Program,Radhika Mittal,2019,UIUC/MIT,North America,Female,2018,United States
+971,Program,Michael Mitzenmacher,2019,Harvard,North America,Male,1996,United States
+972,Program,Srinivas Narayana,2019,Rutgers,North America,Male,2016,United States
+973,Program,Aurojit Panda,2019,NYU,North America,Male,2017,United States
+974,Program,Zafar Ayyub Qazi,2019,LUMS,Asia,Male,2016,Pakistan
+975,Program,Reza Rejaie,2019,U. Oregon,North America,Male,1999,United States
+976,Program,Philipp Richter,2019,MIT,North America,Male,2017,United States
+977,Program,Michael Schapira,2019,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+978,Program,Ricardo Schmidt,2019,U. Passo Fundo,South America,Male,2014,Brazil
+979,Program,Srini Seshan,2019,CMU,North America,Male,1993,United States
+980,Program,Justine Sherry,2019,CMU,North America,Male,2016,United States
+981,Program,Ankit Singla,2019,ETHZ,Europe,Male,2015,Switzerland
+982,Program,Anirudh Sivaraman,2019,NYU,North America,Male,2017,United States
+983,Program,Alex C. Snoeren,2019,UC San Diego,North America,Male,2002,United States
+984,Program,Robert Soulac,2019,UniversitÃ  della Svizzera italiana,Europe,Male,2012,Switzerland
+985,Program,Patrick Thiran,2019,EPFL,Europe,Male,1996,Switzerland
+986,Program,Laurent Vanbever,2019,ETHZ,Europe,Male,2012,Switzerland
+987,Program,Walter Willinger,2019,"NIKSUN, Inc.",North America,Male,1987,United States
+988,Program,Keith Winstein,2019,Stanford,North America,Male,2014,United States
+989,Program,Minlan Yu,2019,Harvard,North America,Female,2011,United States
+990,Program,Ben Zhao,2019,U. Chicago,North America,Male,2004,United States
+991,Program,Sujata Banerjee,2020,VMware Research,North America,Female,1993,United States
+992,Program,Ratul Mahajan,2020,"University of Washington, Intentionet",North America,Male,2005,United States
+993,Program,Aaron Schulman,2020,UC San Diego,North America,Male,2013,United States
+994,Program,Amar Phanishayee,2020,Microsoft Research,North America,Male,2011,United States
+995,Program,Anirudh Sivaraman,2020,NYU,North America,Male,2017,United States
+996,Program,Anja Feldmann,2020,MPI,Europe,Female,1995,Germany
+997,Program,Ankit Singla,2020,ETH ZÃ¼rich,Europe,Male,2015,Switzerland
+998,Program,Arpit Gupta,2020,UCSB,North America,Male,2018,United States
+999,Program,Aruna Balasubramanian,2020,Stony Brook University,North America,Female,2011,United States
+1000,Program,Aurojit Panda,2020,NYU,North America,Male,2017,United States
+1001,Program,Barath Raghavan,2020,USC,North America,Male,2009,United States
+1002,Program,Brian Levine,2020,"University of Massachusetts
+              Amherst",North America,Male,1998,United States
+1003,Program,Costin Raiciu,2020,"University Pollitehnica of
+              Bucharest",Europe,Male,2011,Romania
+1004,Program,Dave Levin,2020,University of Maryland,North America,Male,2010,United States
+1005,Program,David Wetherall,2020,Google,North America,Male,1998,United States
+1006,Program,Deepak Ganesan,2020,UMass Amherst,North America,Male,2004,United States
+1007,Program,Deepak Vasisht,2020,MIT,North America,Male,2020,United States
+1008,Program,Dongsu Han,2020,KAIST,Asia,Male,2012,"Korea, Republic of"
+1009,Program,Ellen Zegura,2020,"Georgia Institute of
+              Technology",North America,Female,1993,United States
+1010,Program,Ethan Katz-Bassett,2020,Columbia University,North America,Male,2012,United States
+1011,Program,Ganesh Ananthanarayanan,2020,Microsoft Research,North America,Male,2013,United States
+1012,Program,Hongqiang Harry Liu,2020,Alibaba Group,Asia,Male,2014,China
+1013,Program,Jeongkeun Lee,2020,Barefoot Networks,North America,Male,2007,United States
+1014,Program,Kate Lin,2020,"National Chiao Tung
+              University",Asia,Female,2009,China
+1015,Program,Katerina Argyraki,2020,EPFL,Europe,Female,2007,Switzerland
+1016,Program,Kun Tan,2020,Huawei,North America,Male,?,China
+1017,Program,Lili Qiu,2020,UT Austin,North America,Female,2001,United States
+1018,Program,Manya Ghobadi,2020,MIT,North America,Female,2013,United States
+1019,Program,Matthew Roughan,2020,University of Adelaide,Australia,Male,1994,Australia
+1020,Program,Minlan Yu,2020,Harvard University,North America,Female,2011,United States
+1021,Program,Mohammad Alizadeh,2020,MIT,North America,Male,2013,United States
+1022,Program,Nate Foster,2020,Cornell University,North America,Male,2009,United States
+1023,Program,Olivier Bonaventure,2020,"UniversitÃ© catholique de
+              Louvain",Europe,Male,1999,Belgium
+1024,Program,Rachit Agarwal,2020,Cornell University,North America,Male,2012,United States
+1025,Program,Radhika Mittal,2020,UIUC,North America,Female,2018,United States
+1026,Program,Radhika Niranjan Mysore,2020,VMware Research,North America,Female,2013,United States
+1027,Program,Renata Teixeira,2020,Inria,Europe,Female,2005,France
+1028,Program,Rob Sherwood,2020,Facebook,North America,Male,2008,United States
+1029,Program,Romit Roy Choudhury,2020,"University of Illinois at Urbana
+              Champaign",North America,Male,2006,United States
+1030,Program,Ryan Beckett,2020,Microsoft Research,North America,Male,2018,United States
+1031,Program,Sanjay Rao,2020,Purdue University,North America,Male,2004,United States
+1032,Program,T.S. Eugene Ng,2020,Rice University,North America,Male,2003,United States
+1033,Program,Vyas Sekar,2020,CMU,North America,Male,2010,United States
+1034,Program,Xiaowei Yang,2020,Duke University,North America,Female,2004,United States
+1035,Program,Yibo Zhu,2020,ByteDance Inc.,Asia,Male,2016,United States
+1036,Program,Sangeetha Abdu Jyothi,2020,"UC Irvine, VMware
+            Research",North America,Female,2019,United States
+1037,Program,Mina Tahmasbi Arashloo,2020,Cornell University,North America,Female,2022,United States
+1038,Program,Paolo Costa,2020,Microsoft Research,Europe,Male,2002,United Kingdom
+1039,Program,Timothy G. Griffin,2020,University of Cambridge,Europe,Male,1988,United Kingdom
+1040,Program,Junchen Jiang,2020,University of Chicago,North America,Male,2017,United States
+1041,Program,Xin Jin,2020,Johns Hopkins University,North America,Male,2016,United States
+1042,Program,Vincent Liu,2020,"University of
+            Pennsylvania",North America,Male,2016,United States
+1043,Program,Neil Spring,2020,"University of Maryland /
+            Facebook",North America,Male,2004,United States
+1044,Program,Ben Y. Zhao,2020,University of Chicago,North America,Male,2004,United States
+1045,Program,Danyang Zhuo,2020,"Duke University, UC
+            Berkeley",North America,Male,2019,United States
+1046,Program,Noa Zilberman,2020,University of Oxford,Europe,Female,2013,United Kingdom
+1047,Program,Aditya Akella,2021,University of WisconsinâMadison,North America,Male,2005,United States
+1048,Program,Nandita Dukkipati,2021,Google,North America,Female,2007,United States
+1049,Program,Aaron Schulman,2021,UC San Diego,North America,Male,2013,United States
+1050,Program,Adrian Perrig,2021,ETH Zurich,Europe,Male,2001,Switzerland
+1051,Program,Alex C. Snoeren,2021,UC San Diego,North America,Male,2002,United States
+1052,Program,Aman Shaikh,2021,Google,North America,Male,2011,United States
+1053,Program,Anja Feldmann,2021,Max Planck Institute,Europe,Female,1995,Germany
+1054,Program,Arpit Gupta,2021,UC Santa Barbara,North America,Male,2018,United States
+1055,Program,Barath Raghavan,2021,University of Southern California,North America,Male,2009,United States
+1056,Program,Behnaz Arzani,2021,Microsoft,North America,Female,2017,United States
+1057,Program,Brent Stephens,2021,University of Illinois at Chicago,North America,Male,2015,United States
+1058,Program,Dave Levin,2021,University of Maryland,North America,Male,2010,United States
+1059,Program,Ellen Zegura,2021,Georgia Institute of Technology,North America,Female,1993,United States
+1060,Program,Eugene Ng,2021,Rice University,North America,Male,2003,United States
+1061,Program,Fadel Adib,2021,Massachusetts Institute of Technology,North America,Male,2016,United States
+1062,Program,George Varghese,2021,UC Los Angeles,North America,Male,1992,United States
+1063,Program,Hakim Weatherspoon,2021,Cornell University,North America,Male,2006,United States
+1064,Program,Hitesh Ballani,2021,Microsoft,Europe,Male,2009,United Kingdom
+1065,Program,Hongqiang Liu,2021,Alibaba,Asia,Male,2014,China
+1066,Program,Jennifer Rexford,2021,Princeton University,North America,Female,1996,United States
+1067,Program,Jitu Padhye,2021,"Microsoft Research, USA",North America,Male,2000,United States
+1068,Program,Kai Chen,2021,Hong Kong University of Science and Technology,Asia,Male,2012,China
+1069,Program,Kate Lin,2021,National Chiao Tung University,Asia,Female,2009,China
+1070,Program,Keith Winstein,2021,Stanford University,North America,Male,2014,United States
+1071,Program,Keon Jang,2021,Max Planck Institute,Europe,Male,2012,Germany
+1072,Program,Kun Tan,2021,Huawei,North America,Male,?,China
+1073,Program,KyoungSoo Park,2021,Korea Advanced Institute of Science and Technology,Asia,Male,2007,"Korea, Republic of"
+1074,Program,Laurent Vanbever,2021,ETH Zurich,Europe,Male,2012,Switzerland
+1075,Program,Lili Qiu,2021,UT Austin,North America,Female,2001,United States
+1076,Program,Lixin Gao,2021,University of Massachusetts Amherst,North America,Female,1997,United States
+1077,Program,Matthew Caesar 0001,2021,University of Illinois UrbanaâChampaign,North America,Male,2007,United States
+1078,Program,Michael Schapira,2021,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+1079,Program,Mohammad Alizadeh,2021,Massachusetts Institute of Technology,North America,Male,2013,United States
+1080,Program,Morley Mao,2021,University of Michigan,North America,Female,2003,United States
+1081,Program,Mosharaf Chowdhury,2021,University of Michigan,North America,Male,2015,United States
+1082,Program,Muhammad Shahbaz,2021,Purdue University,North America,Male,2018,United States
+1083,Program,Mythili Vutukuru,2021,IIT Bombay,Asia,Female,2010,India
+1084,Program,Nate Foster,2021,Cornell University,North America,Male,2009,United States
+1085,Program,Nathan Bronson,2021,Rockset,North America,Male,2011,United States
+1086,Program,Neil Spring,2021,Facebook,North America,Male,2004,United States
+1087,Program,Noa Zilberman,2021,University of Oxford,Europe,Female,2013,United Kingdom
+1088,Program,Olivier Bonaventure,2021,UCLouvain,Europe,Male,1999,Belgium
+1089,Program,Radhika Niranjan Mysore,2021,VMWare,North America,Female,2013,United States
+1090,Program,Rajalakshmi Nandakumar,2021,Cornell University,North America,Female,2013,United States
+1091,Program,Ratul Mahajan,2021,University of Washington and Intentionet,North America,Male,2005,United States
+1092,Program,Ravi Netravali,2021,UC Los Angeles / Princeton University,North America,Male,2018,United States
+1093,Program,Romit Roy Choudhury,2021,University of Illinois UrbanaâChampaign,North America,Male,2006,United States
+1094,Program,Srini Seshan,2021,Carnegie Mellon University,North America,Male,1993,United States
+1095,Program,Stefano Vissicchio,2021,University College London,Europe,Male,2012,United Kingdom
+1096,Program,Sylvia Ratnasamy,2021,UC Berkeley,North America,Female,2002,United States
+1097,Program,Theo Benson,2021,Brown University,North America,Male,2012,United States
+1098,Program,Venkat Padmanabhan,2021,Microsoft,Asia,Male,1998,India
+1099,Program,Vincent Liu,2021,University of Pennsylvania,North America,Male,2016,United States
+1100,Program,Vishal Misra,2021,Columbia University,North America,Male,2000,United States
+1101,Program,Xiaowei Yang,2021,Duke University,North America,Female,2004,United States
+1102,Program,Xin Jin,2021,Peking University,Asia,Male,2016,China
+1103,Program,Yasaman Ghasempour,2021,Princeton University,North America,Female,2020,United States
+1104,Program,Yashar Ganjali,2021,University of Toronto and Huawei Canada,North America,Male,2006,Canada
+1105,Program,Yibo Zhu,2021,ByteDance,Asia,Male,2016,United States
+1106,Program,Zaffar Ayyub Qazi,2021,Lahore University of Management Sciences,Asia,Male,2016,Pakistan
+1107,Program,Brighten Godfrey,2022,University of Illinois at Urbana-Champaign,North America,Male,2009,United States
+1108,Program,Bruce Maggs,2022,Duke University and Emerald Innovations,North America,Male,1989,United States
+1109,Program,Ahmed Saeed,2022,Georgia Institute of Technology,North America,Male,2019,United States
+1110,Program,Alan Zaoxing Liu,2022,Boston University,North America,Male,2018,United States
+1111,Program,Alex Afanasyev,2022,Florida International University,North America,Male,2013,United States
+1112,Program,Amin Vahdat,2022,Google,North America,Male,1998,United States
+1113,Program,Ang Chen,2022,Rice University,North America,Male,2017,United States
+1114,Program,Aurojit Panda,2022,New York University,North America,Male,2017,United States
+1115,Program,Barath Raghavan,2022,University of Southern California / Invisv,North America,Male,2009,United States
+1116,Program,Behnaz Arzani,2022,Microsoft,North America,Female,2017,United States
+1117,Program,Bhuvana Krishnaswamy,2022,University of Wisconsin-Madison,North America,Female,2018,United States
+1118,Program,Boon Thau Loo,2022,University of Pennsylvania,North America,Male,2006,United States
+1119,Program,Brad Karp,2022,University College London,Europe,Male,2000,United Kingdom
+1120,Program,Danyang Zhuo,2022,Duke University,North America,Male,2019,United States
+1121,Program,Dave Levin,2022,University of Maryland,North America,Male,2010,United States
+1122,Program,Dongsu Han,2022,Korea Advanced Institute of Science and Technology,Asia,Male,2012,"Korea, Republic of"
+1123,Program,Elahe Soltanaghai,2022,University of Illinois at Urbana-Champaign,North America,Female,2019,United States
+1124,Program,Ennan Zhai,2022,Alibaba,North America,Male,2015,China
+1125,Program,Fadel Adib,2022,Massachusetts Institute of Technology,North America,Male,2016,United States
+1126,Program,Gabor Retvari,2022,Budapest University of Technology and Economics & Ericsson Research,Europe,Male,2007,Hungary
+1127,Program,Haitham Hassanieh,2022,University of Illinois at Urbana-Champaign,North America,Male,2019,United States
+1128,Program,Haiying Shen,2022,University of Virginia,North America,Female,2006,United States
+1129,Program,Hamed Haddadi,2022,Imperial College London and Brave,Europe,Male,2008,United Kingdom
+1130,Program,Heather Zheng,2022,University of Chicago,North America,Female,1999,United States
+1131,Program,Henning Schulzrinne,2022,Columbia University,North America,Male,1992,United States
+1132,Program,James Hongyi Zeng,2022,Meta,North America,Male,2014,United States
+1133,Program,Jia Wang,2022,AT&T,North America,Female,2000,United States
+1134,Program,Jiasi Chen,2022,"University of California, Riverside",North America,Female,2015,United States
+1135,Program,Jon Crowcroft,2022,University of Cambridge,Europe,Male,1993,United Kingdom
+1136,Program,Kyle Jamieson,2022,Princeton University,North America,Male,2008,United States
+1137,Program,Lalith Suresh,2022,VMware,North America,Male,2016,United States
+1138,Program,Lixia Zhang,2022,"University of California, Los Angeles",North America,Female,1989,United States
+1139,Program,Manya Ghobadi,2022,Massachusetts Institute of Technology,North America,Female,2013,United States
+1140,Program,Marco Canini,2022,King Abdullah University of Science and Technology,Asia,Male,2009,Saudi Arabia
+1141,Program,Mark Handley,2022,University College London,Europe,Male,1997,United Kingdom
+1142,Program,Michael Mitzenmacher,2022,Harvard University,North America,Male,1996,United States
+1143,Program,Michael Schapira,2022,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+1144,Program,Ming Liu,2022,University of Wisconsin-Madison,North America,Male,2020,United States
+1145,Program,Morley Mao,2022,University of Michigan and Google,North America,Female,2003,United States
+1146,Program,Mosharaf Chowdhury,2022,University of Michigan,North America,Male,2015,United States
+1147,Program,Neeraja J. Yadwadkar,2022,UT Austin and VMware Research,North America,Female,2018,United States
+1148,Program,Nick Feamster,2022,University of Chicago,North America,Male,2005,United States
+1149,Program,Oliver Hohlfeld,2022,Brandenburg University of Technology,Europe,Male,2013,Germany
+1150,Program,Omid Abari,2022,"University of California, Los Angeles",North America,Male,2018,United States
+1151,Program,Rachee Singh,2022,Microsoft,North America,Female,2022,United States
+1152,Program,Ramesh Sitaraman,2022,University of Massachusetts Amherst,North America,Male,1993,United States
+1153,Program,Ran Ben Basat,2022,University College London,Europe,Male,2018,United Kingdom
+1154,Program,Ranveer Chandra,2022,Microsoft,North America,Male,2005,United States
+1155,Program,Renata Teixeira,2022,Netflix,Europe,Female,2005,France
+1156,Program,Robert Soulac,2022,Yale University,North America,Male,2012,United States
+1157,Program,Roland van Rijswijk-Deij,2022,University of Twente,Europe,Male,2017,Netherlands
+1158,Program,Sachin Katti,2022,Intel and Stanford University,North America,Male,2008,United States
+1159,Program,Sanjay Rao,2022,Purdue University,North America,Male,2004,United States
+1160,Program,Sergey Gorinsky,2022,IMDEA Networks Institute,Europe,Male,2003,Spain
+1161,Program,Shivaram Venkataraman,2022,University of Wisconsin-Madison,North America,Male,2017,United States
+1162,Program,Shyam Gollakota,2022,University of Washington,North America,Male,2013,United States
+1163,Program,Soo-Jin Moon,2022,Google,North America,Female,2020,United States
+1164,Program,Steve Uhlig,2022,Queen Mary University of London,Europe,Male,2004,United Kingdom
+1165,Program,Sue Moon,2022,Korea Advanced Institute of Science and Technology,Asia,Female,2000,"Korea, Republic of"
+1166,Program,Walter Willinger,2022,NIKSUN,North America,Male,1987,United States
+1167,Program,Yang Richard Yang,2022,Yale University,North America,Male,2001,United States
+1168,Program,Zhi-Li Zhang,2022,University of Minnesota,North America,Male,1997,United States
+1169,Program,Eddie Kohler,2023,Harvard University,North America,Male,2001,United States
+1170,Program,David Maltz,2023,Microsoft,North America,Male,2001,United States
+1171,Program,Aditya Akella,2023,UT Austin and Google,North America,Male,2005,United States
+1172,Program,Alex C. Snoeren,2023,UC San Diego / Google,North America,Male,2002,United States
+1173,Program,Amar Phanishayee,2023,Microsoft Research,North America,Male,2011,United States
+1174,Program,Andreas Haeberlen,2023,University of Pennsylvania,North America,Male,2009,United States
+1175,Program,Anirudh Sivaraman,2023,NYU,North America,Male,2017,United States
+1176,Program,Anna Brunstrom,2023,Karlstad University,Europe,Female,1996,Sweden
+1177,Program,Anna Maria Mandalari,2023,University College London,Europe,Female,2018,United Kingdom
+1178,Program,Behnaz Arzani,2023,Microsoft Research,North America,Female,2017,United States
+1179,Program,Ben Y. Zhao,2023,University of Chicago,North America,Male,2004,United States
+1180,Program,Brad Campbell,2023,University of Virginia,North America,Male,2017,United States
+1181,Program,Cecilia Testart,2023,MIT / Georgia Tech,North America,Female,2022,United States
+1182,Program,Danyang Zhuo,2023,Duke University,North America,Male,2019,United States
+1183,Program,David Choffnes,2023,Northeastern University,North America,Male,2010,United States
+1184,Program,Dinesh Bharadia,2023,"University of California, San Diego",North America,Male,2016,United States
+1185,Program,Elizabeth Belding,2023,University of California Santa Barbara,North America,Female,2000,United States
+1186,Program,Fabian E. Bustamante,2023,Northwestern University,North America,Male,2001,United States
+1187,Program,Fadel Adib,2023,Massachusetts Institute of Technology,North America,Male,2016,United States
+1188,Program,Ganesh Ananthanarayanan,2023,Microsoft,North America,Male,2013,United States
+1189,Program,Heming Cui,2023,University of Hong Kong,Asia,Male,2014,China
+1190,Program,Hitesh Ballani,2023,Microsoft Research,Europe,Male,2009,United Kingdom
+1191,Program,James Hongyi Zeng,2023,Facebook,North America,Male,2014,United States
+1192,Program,John Heidemann,2023,University of Southern California,North America,Male,1995,United States
+1193,Program,Junchen Jiang,2023,University of Chicago,North America,Male,2017,United States
+1194,Program,Justine Sherry,2023,Carnegie Mellon University,North America,Male,2016,United States
+1195,Program,K. K. Ramakrishnan,2023,"University of California, Riverside",North America,Male,1983,United States
+1196,Program,Kai Chen,2023,Hong Kong University of Science and Technology,Asia,Male,2012,China
+1197,Program,Kate Lin,2023,National Chiao Tung University,Asia,Female,2009,China
+1198,Program,Katerina Argyraki,2023,EPFL,Europe,Female,2007,Switzerland
+1199,Program,Keon Jang,2023,Rubrik and MPI-SWS,Europe,Male,2012,Germany
+1200,Program,Lydia Y. Chen,2023,TU Delft,Europe,Female,2006,Netherlands
+1201,Program,Maria Gorlatova,2023,Duke University,North America,Female,2013,United States
+1202,Program,Michael Schapira,2023,Hebrew University of Jerusalem,Asia,Male,2008,Israel
+1203,Program,Minlan Yu,2023,Harvard University,North America,Female,2011,United States
+1204,Program,Neeraja J. Yadwadkar,2023,UT Austin and VMware Research,North America,Female,2018,United States
+1205,Program,Noa Zilberman,2023,University of Oxford,Europe,Female,2013,United Kingdom
+1206,Program,Omid Abari,2023,UCLA,North America,Male,2018,United States
+1207,Program,Paolo Costa,2023,Microsoft Research,Europe,Male,2002,United Kingdom
+1208,Program,Peter Steenkiste,2023,CMU,North America,Male,1987,United States
+1209,Program,Rajesh Balan,2023,Singapore Management University,Asia,Male,2006,Singapore
+1210,Program,Ranveer Chandra,2023,Microsoft,North America,Male,2005,United States
+1211,Program,Sanjay Rao,2023,Purdue University,North America,Male,2004,United States
+1212,Program,Shuai Mu,2023,Stony Brook University,North America,Male,2015,United States
+1213,Program,Suman Banerjee,2023,University of Wisconsin -- Madison,North America,Male,2003,United States
+1214,Program,Sung-Ju Lee,2023,KAIST,Asia,Male,2000,"Korea, Republic of"
+1215,Program,T. S. Eugene Ng,2023,Rice University,North America,Male,2003,United States
+1216,Program,Tam Vu,2023,"University of Colorado, Boulder",North America,Male,2013,United States
+1217,Program,Timothy G. Griffin,2023,University of Cambridge,Europe,Male,1988,United Kingdom
+1218,Program,Wen Hu,2023,UNSW,Australia,Male,2006,Australia
+1219,Program,Xiaowei Yang,2023,Duke and Google,North America,Female,2004,United States
+1220,Program,Y. Charlie Hu,2023,Purdue University,North America,Male,1997,United States
+1221,Program,Yashar Ganjali,2023,"University of Toronto, Huawei Canada",North America,Male,2006,Canada
+1222,Program,Yibo Zhu,2023,Google Inc.,Asia,Male,2016,United States
+1223,Program,Ying Zhang,2023,Facebook,North America,Female,2009,United States
+1224,Program,Yingying Chen,2023,Rutgers University,North America,Female,2007,United States
+1225,Program,Yiting Xia,2023,Max Planck Institute for Informatics,Europe,Female,2018,Germany
+1226,Program,Yiying Zhang,2023,"University of California, San Diego",North America,Female,2019,United States
+1227,Program,Yu Hua,2023,Huazhong University of Science and Technology,Asia,Male,2005,China
+1228,Program,Yunxin Liu,2023,"Institute for AI Industry Research (AIR), Tsinghua University",Asia,Male,2011,China
+1229,Program,Zhizhen Zhong,2023,Massachusetts Institute of Technology,North America,Male,2019,United States
